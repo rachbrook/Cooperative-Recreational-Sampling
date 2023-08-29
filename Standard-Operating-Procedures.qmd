@@ -1,0 +1,63 @@
+---
+title: "Cooperative Recreational Sampling Program"
+subtitle: "Standard Operating Procedures"
+format: html
+editor: visual
+---
+
+## Contact Information:
+
+**Melissa Monk**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** \<melissa.monk\@noaa.gov\>
+
+**Kenneth Franke**, *Sportfishing Association of California (SAC),* **email:** \<kennethfrankesac\@gmail.com\>
+
+**Rachel Brooks**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** \<rachel.brooks\@noaa.gov\>
+
+**Merit McCrea**, *Sportfishing Association of California (SAC),* **email:** \<meritmmcrea\@hotmail.com\>
+
+**Edwin Reyes**,*Sportfishing Association of California (SAC),* **email:** \<edwin\@sportfishca.org\>
+
+## Background:
+
+The 2018 Marine Life Management Act Master Plan for fisheries specifically recommends prioritizing additional environmental and fisheries monitoring to increase climate resiliency. Biological sampling of targeted fishes is critical to understanding the effects of environmental change and the corresponding impacts on managed fisheries, and can provide the baseline data needed to manage a fishery for increased ecological resilience. In addition to increasing climate-resiliency, monitoring and sampling life-history characteristics of targeted species is necessary for adaptive management, where knowing how specific age/size classes within a fishery are being impacted is the first step in developing management strategies that guard against over-exploitation. 
+
+While CDFW currently surveys the landings and length distributions of rockfishes encountered by the recreational fishing fleet as part of the California Recreational Fisheries Survey (CRFS); CRFS does not currently collect otoliths (for age and growth), fin clips (for genetic analyses), or any other biological information only available from examining the internal organs of a fish (i.e., sex, maturity status, fecundity, condition). This lack of sampling means that many management decisions are currently being made with incomplete or insufficient data, leading to uncertainty in the assessments and questioning of the process/outcomes by stakeholders. 
+
+Additionally, the lack of sampling leads to a critical lack of information about the spatial scale of how targeted species are reacting to both fishing pressure and climate change. Specifically, how life history traits are changing in response to marine heatwaves and other local climate change effects. This is particularly important for reef-associated nearshore fishes, as they occupy habitats likely to be impacted most by changing ocean conditions.
+
+In partnership with the Sportfishing Association of California (SAC), the NOAA Fisheries Ecology Division (FED) at the Southwest Fisheries Science Center is piloting a \# year-long cooperative sampling project to collect biological samples for groundfishes from the for-hire recreational fishing fleet across California. Vessel captains and crew members are trained to measure and retain groundfish samples of specific target species (see Vessel Sampling Protocols for more details). The samples are then labeled, organized, preserved and shipped to NOAA SWFSC and California Collaborative Fisheries Research Program (CCFRP) campuses for further dissections and analysis. The life history information generated from this biological data are incorporated into current federal stock assessment efforts.
+
+### **Project Objectives:**
+
+1.  Collect information on federally-managed groundfish species in cooperation with the Sportfishing Association of California (SAC) and the California commercial passenger fishing vessel (CPFV) fleet during the recreational fishing season to inform stock assessments and management.
+
+2.  Charter CPFVs during months when rockfish are spawning for additional biological data on maturity and fecundity.
+
+## 2023 CDFW Recreational Groundfish Season Structure:
+
+```{r}
+#| label: fig-include-figure
+#| out-width: "900px"
+#| fig-cap: "2023 recreational groundfish season structure separated by CDFW management areas"
+#| fig-alt: "2023 recreational groundfish season structure separated by CDFW management areas"
+knitr::include_graphics("CDFW-regulation.PNG")
+
+```
+
+### 2023 In-Season Groundfish Regulation Changes: 
+
+-   **Effective August 7th, 2023:** Retention of Quillback Rockfish (Sebastes maliger) is prohibited statewide in both the recreational and commercial fisheries - *announced July 28th, 2023*
+
+-   **Effective August 21st, 2023:** Recreational boat-based groundfish fishing will only be permitted seaward of the 50 fathom Rockfish Conservation Area (RCA) boundary line for the Northern Groundfish Management Area (GMA) - *announced August 11th, 2023*
+
+-   **Effective September 1st, 2023:** Recreational boat-based groundfish fishing will only be permitted seaward of the 50 fathom Rockfish Conservation Area (RCA) boundary line for the Mendocino Groundfish Management Area (GMA), San Francisco GMA, and Central Coast GMA - *announced August 21st, 2023*
+
+## Recruiting Vessels:
+
+## Vessel Sampling Protocols:
+
+## Supplies:
+
+## Tracking Vessel Tags:
+
+## Tracking Vessel Samples:
