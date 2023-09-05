@@ -7,15 +7,15 @@ editor: visual
 
 ## Contact Information:
 
-**Melissa Monk**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** \<melissa.monk\@noaa.gov\>
+**Melissa Monk**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** [melissa.monk\@noaa.gov](melissa.monk@noaa.gov)
 
-**Kenneth Franke**, *Sportfishing Association of California (SAC),* **email:** \<kennethfrankesac\@gmail.com\>
+**Kenneth Franke**, *Sportfishing Association of California (SAC),* **email:** [kennethfrankesac\@gmail.com](kennethfrankesac@gmail.com)
 
-**Rachel Brooks**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** \<rachel.brooks\@noaa.gov\>
+**Rachel Brooks**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** [rachel.brooks\@noaa.gov](rachel.brooks@noaa.gov)
 
-**Merit McCrea**, *Sportfishing Association of California (SAC),* **email:** \<meritmmcrea\@hotmail.com\>
+**Merit McCrea**, *Sportfishing Association of California (SAC),* **email:** [meritmmcrea\@hotmail.com](edwin@sportfishca.org)
 
-**Edwin Reyes**,*Sportfishing Association of California (SAC),* **email:** \<edwin\@sportfishca.org\>
+**Edwin Reyes**, *Sportfishing Association of California (SAC),* **email:** [edwin\@sportfishca.org](edwin@sportfishca.org)
 
 ## Background:
 
@@ -44,9 +44,9 @@ knitr::include_graphics("CDFW-regulation.PNG")
 
 ```
 
-### 2023 In-Season Groundfish Regulation Changes: 
+### 2023 In-Season Groundfish Regulation Changes:
 
--   **Effective August 7th, 2023:** Retention of Quillback Rockfish (Sebastes maliger) is prohibited statewide in both the recreational and commercial fisheries - *announced July 28th, 2023*
+-   **Effective August 7th, 2023:** Retention of quillback rockfish (*Sebastes maliger*) is prohibited statewide in both the recreational and commercial fisheries - *announced July 28th, 2023*
 
 -   **Effective August 21st, 2023:** Recreational boat-based groundfish fishing will only be permitted seaward of the 50 fathom Rockfish Conservation Area (RCA) boundary line for the Northern Groundfish Management Area (GMA) - *announced August 11th, 2023*
 
@@ -56,37 +56,39 @@ knitr::include_graphics("CDFW-regulation.PNG")
 
 ## Vessel Sampling Protocols:
 
-To collect life history information on rockfish species in cooperation with the California CPFV fleet, we have identified several different potential methods that we will explore during the 2023 fishing season.  These three methods are all preliminary and the program will adapt based on feedback from the fleet and scientists. Each vessel/landing will receive training and instructions specific to their protocol.
+To collect life history information on groundfish species in cooperation with the California CPFV fleet, we have identified several different potential methods that we will explore during the 2023 fishing season.  These three methods are all preliminary and the program will adapt based on feedback from the fleet and scientists. Each vessel/landing will receive training and instructions specific to their protocol.
 
 ### **On-Board Sampling by Vessel Crew Members**
 
-Every 1-2 month period, or as needed, each vessel will receive 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags). The expectation is to sample 50 fish over the course of one month, and, to the extent possible, distribute the sampling evenly over the 1-month period. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where \"All Depths\" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
+Every 1-2 month period, or as needed, each vessel will receive 50 tags. The expectation is to sample 50 fish over the course of one month, and, to the extent possible, distribute the sampling evenly over the 1-month period.
 
-Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on a provided  L-shaped measuring board by a crew member prior to fileting. The crew will measure the fish and record the length and capture date with permanent ink (a \"sharpie\") on the Tyvek tag. Once the fish has been measured, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The tagged carcass will then be placed in a contractor trash bag and cooler and stored in a freezer prior to being shipped or picked up by NMFS or CCFRP researchers for laboratory processing.
+Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on a provided  L-shaped measuring board by a crew member prior to fileting. The crew will measure the fish and record the length and capture date with permanent ink (a "sharpie") on the Tyvek tag. Once the fish has been measured, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The tagged carcass will then be placed in a contractor trash bag and cooler and stored in a freezer prior to being shipped or picked up by NMFS or CCFRP researchers for laboratory processing.
 
 Each vessel will be compensated \$300 a month for participation in this cooperative sampling contingent on providing 50 samples per month.
 
-#### **6-PAX Vessels** 
+[**6-PAX Vessels:**](https://drive.google.com/file/d/1OFiml_G4lwsWu2RsiYxac2mk8eRYo7p9/view?usp=sharing)25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
 
 The vessel crew will sample no more than 25 fish per trip. On a given trip, the vessel crew will sample all tagged species kept by anglers on trips until they have reached 25 of each. The vessel crew can fill in with BONUS samples as needed with a maximum of 8 fish per trip.
 
-#### **Party Boat Vessels**
+[**Party Boat Vessels Option A (sample up to 50 fish per trip):**](https://drive.google.com/file/d/10tcgyl3dkq_NRH5TrU9DeakOrtZvPEXL/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
 
-**Option A (sample up to 50 fish per trip):** The vessel crew will sample no more than 50 fish from a single trip per month, and may sample multiple trips if needed to reach 50 fish for the month. On a given trip, the vessel crew will pick two species to sample from the species tags. For one species, the vessel crew will sample 1-2 fish from all odd numbered angler bags (1,3,5, etc.) until they reach 25. The vessel crew will sample 1-2 fish of the second species from all even numbered angler bags (2,4,6, etc.) until they reach 25. The 1-2 fish of the same species will be selected randomly from the bag.
+The vessel crew will sample no more than 50 fish from a single trip per month, and may sample multiple trips if needed to reach 50 fish for the month. On a given trip, the vessel crew will pick two species to sample from the species tags. For one species, the vessel crew will sample 1-2 fish from all odd numbered angler bags (1,3,5, etc.) until they reach 25. The vessel crew will sample 1-2 fish of the second species from all even numbered angler bags (2,4,6, etc.) until they reach 25. The 1-2 fish of the same species will be selected randomly from the bag.
 
-**Option B (sample up to 50 fish per trip):** The vessel crew will sample at least 25 fish on two trips per month. On the first trip, the vessel crew will pick one of the two species to sample from the assigned species tags. The vessel crew will randomly sample 1-2 individuals from all odd numbered angler bags (1,3,5, etc.) until they reach 25. On the second trip, the crew will follow the same procedure for the second species.
+[**Party Boat Vessels Option B (sample up to 50 fish per trip):**](https://drive.google.com/file/d/14bi-9TEZSylgiLCytEaThr1CO-3Eljon/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
 
-**Option C (sample whole bags):** The vessel
+The vessel crew will sample at least 25 fish on two trips per month. On the first trip, the vessel crew will pick one of the two species to sample from the assigned species tags. The vessel crew will randomly sample 1-2 individuals from all odd numbered angler bags (1,3,5, etc.) until they reach 25. On the second trip, the crew will follow the same procedure for the second species.
 
-### **On-Board Sampling by NMFS/CCFRP Researcher**
+[**Party Boat Vessels Option C (sample whole bags):**](https://drive.google.com/file/d/1rIka7pY_DXWL-FqTUodazEqWex9ovj0W/view?usp=sharing) 50 write-in species tags will be provided each month. The vessel crew will identify 3-5 volunteer anglers to have their bags sampled prior to having their fish filleted. The vessel crew will sample a subset of species using the following procedures: (1) the sampler will measure and tag two randomly selected vermilion rockfish from each bag; (2) the sampler will measure and tag all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish, and bocaccio rockfish. Although this tag provides an extra step of writing in the species, it will provide greater flexibility and opportunity to sample throughout the groundfish season.
 
-One to three times per month, a NMFS or CCFRP researcher will coordinate with the vessel to ride along on a fishing charter to sample the catch from the trip. The sampler will identify 5-7 anglers to have their bags sampled prior to having their fish fileted. The NMFS or CCFRP sampler will sample a subset of species using the following procedures: (1) the sampler will measure and tag two randomly selected vermilion rockfish from each bag; (2) the sampler will measure and tag all other species in the bag except chilipepper rockfish, widow rockfish and bocaccio rockfish. In addition to the 5 bags, the sampler will opportunistically measure and tag priority species (i.e., copper rockfish, quillback rockfish) or less commonly encountered species (e.g., tiger rockfish, flag rockfish) onboard. 
+### [**On-Board Sampling by NMFS/CCFRP Researcher**](https://drive.google.com/file/d/1o7kY7kULP_budD7yP4ZCjEFSpdjwJd3N/view?usp=sharing)
+
+One to three times per month, a NMFS or CCFRP researcher will coordinate with the vessel to ride along on a fishing charter to sample the catch from the trip. The sampler will identify 5-7 anglers to have their bags sampled prior to having their fish filleted. The NMFS or CCFRP sampler will sample a subset of species using the following procedures: (1) the sampler will measure and tag two randomly selected vermilion rockfish from each bag; (2) the sampler will measure and tag all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish, and bocaccio rockfish. In addition to the 5 bags, the sampler will opportunistically measure and tag priority species (i.e., copper rockfish, quillback rockfish) or less commonly encountered species (e.g., tiger rockfish, flag rockfish) onboard. 
 
 Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on an L-shaped measuring board by the NMFS or CCFRP sampler.  The tag will indicate to the crew that the fish was selected for sampling. The NMFS or CCFRP sampler will measure the fish and record the length and capture date with a sharpie on the Tyvek tag. Once the fish has been measured by the NMFS or CCFRP sampler, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The carcass will be handed off to the NMFS or CCFRP sampler for immediate processing either at the dock or back at the laboratory facility.  
 
 This sampling may occur in tandem with an onboard observer trip conducted by Cal Poly SLO, and in other locations, if the captains agree, similar onboard observer data will be collected during a ride-along.  All information that the vessel considers proprietary or confidential will remain confidential. Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
 
-### **Dockside Sampling by NMFS/CCFRP Researcher**
+### [**Dockside Sampling by NMFS/CCFRP Researcher**](https://drive.google.com/file/d/19i_ubpa1QG1Ra2br7qk-RAFmMVGjmr5J/view?usp=sharing)
 
 One to three times a month, a NMFS or CCFRP researcher will coordinate with the vessel operator to sample the catch from the trip once the vessel returns to the fishing dock. At the start of the trip the vessel crew will identify 5 customers willing to have their bags sampled back at the dock prior to having their fish fileted.  The NMFS or CCFRP sampler will meet the vessel at the dock and sample a subset of species using the following procedures: (1) the sampler will sample only two randomly selected vermilion rockfish from each bag; (2) the sampler will sample all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish and bocaccio rockfish. 
 
@@ -95,6 +97,28 @@ Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek ta
 Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
 
 ## Supplies:
+
+### Cooperative Sampling Supplies
+
+#### Vessel Supplies:
+
+-   Laminated sampling protocols
+
+-   Thick permanent markers (i.e., Sharpies)
+
+-   Measuring board
+
+-   Contractor bags
+
+-   Pre-labeled tyvek tags
+
+-   Uline shipping box (if shipping carcasses)
+
+-   Packing tape
+
+#### Dissecting Supplies:
+
+-   Serrated knife
 
 ## Tracking Vessel Tags:
 

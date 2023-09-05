@@ -1,0 +1,69 @@
+RECFIN_SPECIES_CODE,SPECIES_NAME,SCIENTIFIC_NAME,MANAGEMENT_PLAN_ID,FISHERY_MANAGEMENT_PLAN,SPECIES_GROUP_ID,SPECIES_GROUP_NAME,STOCK_COMPLEX_ID,STOCK_COMPLEX_NAME,PACFIN_SPECIES_CODE
+8826010104,AURORA ROCKFISH,Sebastes aurora,2,Groundfish,15,Rockfish,12,Slope Rockfish,ARRA
+8826010156,BANK ROCKFISH,Sebastes rufus,2,Groundfish,15,Rockfish,12,Slope Rockfish,BANK
+8826010140,BLACK AND YELLOW ROCKFISH,Sebastes chrysomelas,2,Groundfish,15,Rockfish,5,Nearshore Shallow,BYEL
+8826010121,BLACK ROCKFISH,Sebastes melanops,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,BLCK
+8826010122,BLACKGILL ROCKFISH,Sebastes melanostomus,2,Groundfish,15,Rockfish,12,Slope Rockfish,BLGL
+8826010124,BLUE ROCKFISH,Sebastes mystinus,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,BLUR
+8826010127,BOCACCIO,Sebastes paucispinis,2,Groundfish,15,Rockfish,11,Shelf Rockfish,BCAC
+8826010147,BRONZESPOTTED ROCKFISH,Sebastes gilli,2,Groundfish,15,Rockfish,11,Shelf Rockfish,BRNZ
+8826010103,BROWN ROCKFISH,Sebastes auriculatus,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,BRWN
+8831023101,CABEZON,Scorpaenichthys marmoratus,2,Groundfish,18,Sculpins,9,Roundfish,CBZN
+8826010145,CALICO ROCKFISH,Sebastes dalli,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,CLCO
+8826010616,CALIFORNIA SCORPIONFISH,Scorpaena guttata,2,Groundfish,15,Rockfish,8,Other Rockfish,SCOR
+8826010128,CANARY ROCKFISH,Sebastes pinniger,2,Groundfish,15,Rockfish,11,Shelf Rockfish,CNRY
+8826010153,CHAMELEON ROCKFISH,Sebastes phillipsi,2,Groundfish,15,Rockfish,11,Shelf Rockfish,CMEL
+8826010117,CHILIPEPPER,Sebastes goodei,2,Groundfish,15,Rockfish,11,Shelf Rockfish,CLPR
+8826010125,CHINA ROCKFISH,Sebastes nebulosus,2,Groundfish,15,Rockfish,5,Nearshore Shallow,CHNA
+8826010108,COPPER ROCKFISH,Sebastes caurinus,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,COPP
+8826010149,COWCOD,Sebastes levis,2,Groundfish,15,Rockfish,11,Shelf Rockfish,CWCD
+8826010110,DARKBLOTCHED ROCKFISH,Sebastes crameri,2,Groundfish,15,Rockfish,12,Slope Rockfish,DBRK
+8826010198,DEACON ROCKFISH,Sebastes diaconus,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,DEAC
+8826010109,DUSKY ROCKFISH,Sebastes ciliatus,2,Groundfish,15,Rockfish,8,Other Rockfish,DUSK
+8826010167,DWARF RED ROCKFISH,Sebastes rufinanus,2,Groundfish,15,Rockfish,8,Other Rockfish,DWRF
+8826010155,FLAG ROCKFISH,Sebastes rubrivinctus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,FLAG
+8826010164,FRECKLED ROCKFISH,Sebastes lentiginosus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,FRCK
+8826010162,GOPHER ROCKFISH,Sebastes carnatus,2,Groundfish,15,Rockfish,5,Nearshore Shallow,GPHR
+8826010154,GRASS ROCKFISH,Sebastes rastrelliger,2,Groundfish,15,Rockfish,5,Nearshore Shallow,GRAS
+8826010166,GREENBLOTCHED ROCKFISH,Sebastes rosenblatti,2,Groundfish,15,Rockfish,11,Shelf Rockfish,GBLC
+8826010143,GREENSPOTTED ROCKFISH,Sebastes chlorostictus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,GSPT
+8826010112,GREENSTRIPED ROCKFISH,Sebastes elongatus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,GSRK
+8826010157,HALFBANDED ROCKFISH,Sebastes semicinctus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,HBRK
+8826010136,HARLEQUIN ROCKFISH,Sebastes variegatus,2,Groundfish,15,Rockfish,8,Other Rockfish,HLQN
+8826010160,HONEYCOMB ROCKFISH,Sebastes umbrosus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,HNYC
+8827010101,KELP GREENLING,Hexagrammos decagrammus,2,Groundfish,9,Greenlings,9,Roundfish,KLPG
+8826010142,KELP ROCKFISH,Sebastes atrovirens,2,Groundfish,15,Rockfish,5,Nearshore Shallow,KLPR
+8827010201,LINGCOD,Ophiodon elongatus,2,Groundfish,9,Greenlings,9,Roundfish,LCOD
+8826010202,LONGSPINE THORNYHEAD,Sebastolobus altivelis,2,Groundfish,15,Rockfish,8,Other Rockfish,LSPN
+8826010150,MEXICAN ROCKFISH,Sebastes macdonaldi,2,Groundfish,15,Rockfish,11,Shelf Rockfish,MXRF
+8826010158,OLIVE ROCKFISH,Sebastes serranoides,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,OLVE
+8826010102,PACIFIC OCEAN PERCH,Sebastes alutus,2,Groundfish,15,Rockfish,12,Slope Rockfish,POP
+8826010146,PINK ROCKFISH,Sebastes eos,2,Groundfish,15,Rockfish,11,Shelf Rockfish,PNKR
+8826010165,PINKROSE ROCKFISH,Sebastes simulator,2,Groundfish,15,Rockfish,11,Shelf Rockfish,PRRK
+8826010113,PUGET SOUND ROCKFISH,Sebastes emphaeus,5,Not managed,15,Rockfish,6,None,PUGT
+8826010137,PYGMY ROCKFISH,Sebastes wilsoni,2,Groundfish,15,Rockfish,8,Other Rockfish,PGMY
+8826010120,QUILLBACK ROCKFISH,Sebastes maliger,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,QLBK
+8826010105,REDBANDED ROCKFISH,Sebastes babcocki,2,Groundfish,15,Rockfish,12,Slope Rockfish,RDBD
+8826010130,REDSTRIPE ROCKFISH,Sebastes proriger,2,Groundfish,15,Rockfish,11,Shelf Rockfish,REDS
+8826010100,ROCKFISH GENUS,Sebastes,5,Not managed,15,Rockfish,6,None,ROCK
+8826010118,ROSETHORN ROCKFISH,Sebastes helvomaculatus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,RSTN
+8826010132,ROSY ROCKFISH,Sebastes rosaceus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,ROSY
+8826010101,ROUGHEYE ROCKFISH,Sebastes aleutianus,2,Groundfish,15,Rockfish,12,Slope Rockfish,REYE
+8826010138,SHARPCHIN ROCKFISH,Sebastes zacentrus,2,Groundfish,15,Rockfish,12,Slope Rockfish,SHRP
+8826010119,SHORTBELLY ROCKFISH,Sebastes jordani,2,Groundfish,15,Rockfish,11,Shelf Rockfish,SBLY
+8826010107,SHORTRAKER ROCKFISH,Sebastes borealis,2,Groundfish,15,Rockfish,8,Other Rockfish,SRKR
+8826010201,SHORTSPINE THORNYHEAD,Sebastolobus alascanus,2,Groundfish,15,Rockfish,8,Other Rockfish,SSPN
+8826010106,SILVERGRAY ROCKFISH,Sebastes brevispinis,2,Groundfish,15,Rockfish,11,Shelf Rockfish,SLGR
+8826010152,SPECKLED ROCKFISH,Sebastes ovalis,2,Groundfish,15,Rockfish,11,Shelf Rockfish,SPKL
+8826010111,SPLITNOSE ROCKFISH,Sebastes diploproa,2,Groundfish,15,Rockfish,12,Slope Rockfish,SNOS
+8826010148,SQUARESPOT ROCKFISH,Sebastes hopkinsi,2,Groundfish,15,Rockfish,11,Shelf Rockfish,SQRS
+8826010144,STARRY ROCKFISH,Sebastes constellatus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,STAR
+8826010135,STRIPETAIL ROCKFISH,Sebastes saxicola,2,Groundfish,15,Rockfish,11,Shelf Rockfish,STRK
+8826010163,SWORDSPINE ROCKFISH,Sebastes ensifer,2,Groundfish,15,Rockfish,11,Shelf Rockfish,SWSP
+8826010126,TIGER ROCKFISH,Sebastes nigrocinctus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,TIGR
+8826010159,TREEFISH,Sebastes serriceps,2,Groundfish,15,Rockfish,4,Nearshore Deep Demersal,TREE
+8826010123,VERMILION ROCKFISH,Sebastes miniatus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,VRML
+8826010114,WIDOW ROCKFISH,Sebastes entomelas,2,Groundfish,15,Rockfish,11,Shelf Rockfish,WDOW
+8826010134,YELLOWEYE ROCKFISH,Sebastes ruberrimus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,YEYE
+8826010131,YELLOWMOUTH ROCKFISH,Sebastes reedi,2,Groundfish,15,Rockfish,8,Other Rockfish,YMTH
+8826010115,YELLOWTAIL ROCKFISH,Sebastes flavidus,2,Groundfish,15,Rockfish,11,Shelf Rockfish,YTRK
