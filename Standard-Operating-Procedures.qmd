@@ -91,7 +91,7 @@ This sampling may occur in tandem with an onboard observer trip conducted by Cal
 
 [**On-Dock Sampling by Researcher:**](https://drive.google.com/file/d/19i_ubpa1QG1Ra2br7qk-RAFmMVGjmr5J/view?usp=sharing) One to three times a month, a NMFS or CCFRP researcher will coordinate with the vessel operator to sample the catch from the trip once the vessel returns to the fishing dock. At the start of the trip the vessel crew will identify 5 customers willing to have their bags sampled back at the dock prior to having their fish fileted.  The NMFS or CCFRP sampler will meet the vessel at the dock and sample a subset of species using the following procedures: (1) the sampler will sample only two randomly selected vermilion rockfish from each bag; (2) the sampler will sample all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish and bocaccio rockfish. 
 
-Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on an L-shaped measuring board by the NMFS or CCFRP sampler prior to fileting. To measure the fish, the NMFS or CCFRP sampler will position the fish flat on the measuring board with the mouth closed and pressed up against the tip of the board at the zero line with the caudal fin splayed out and not pinched. The NMFS or CCFRP sampler will measure the fish to the nearest millimeter at the center of the caudal fin and record the length and capture date with a sharpie on the Tyvek tag. Once the fish has been measured by the NMFS or CCFRP sampler, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The carcass will be handed off to the NMFS or CCFRP sampler for processing either at the dock or back at the laboratory facility.
+Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on an L-shaped measuring board by the NMFS or CCFRP sampler prior to filleting. To measure the fish, the NMFS or CCFRP sampler will position the fish flat on the measuring board with the mouth closed and pressed up against the tip of the board at the zero line with the caudal fin splayed out and not pinched. The NMFS or CCFRP sampler will measure the fish to the nearest millimeter at the center of the caudal fin and record the length and capture date with a sharpie on the Tyvek tag. Once the fish has been measured by the NMFS or CCFRP sampler, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The carcass will be handed off to the NMFS or CCFRP sampler for processing either at the dock or back at the laboratory facility.
 
 Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
 
@@ -99,27 +99,27 @@ Each vessel will be compensated \$300 each month for participation in this coope
 
 Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRSP)
 
-|                                    Vessel Name                                     |      Port       | CDFW Management Region | Vessel Type  | CRSP Vessel Sampling Protocol  |
-|:--------------:|:--------------:|:---------------:|:----------:|:-----------------------:|
-|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
-|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
-|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |        Central         |    6-PAX     |    Dockside Sampling CCFRP     |
-|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |        Central         |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |     San Francisco      |  Party Boat  |    Dockside Sampling CCFRP     |
-|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |       Mendocino        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                                    Vessel Name                                     |      Port       | CDFW Boat \# | CDFW Management Region | Vessel Type  | CRSP Vessel Sampling Protocol  |
+|:-------------:|:--------------:|:----------:|:------------------------:|:-------------:|:-----------------------:|
+|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |    03233     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |    12360     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |    16699     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |    04990     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |    28054     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |    39022     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |    12758     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |    02214     |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |    33680     |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |    73873     |        Central         |    6-PAX     |    Dockside Sampling CCFRP     |
+|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |    38325     |        Central         |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |    37423     |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |    29746     |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |    30068     |     San Francisco      |  Party Boat  |    Dockside Sampling CCFRP     |
+|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |    72865     |       Mendocino        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |    06810     |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |    05978     |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |    71226     |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |    71246     |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
 
 ## Vessel Tags
 
@@ -127,13 +127,27 @@ Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRS
 
 Vessel tags are provided to each participating vessel on a monthly basis. Species tags are decided based on current inventory and feedback from the vessel captain and/or crew. Vessel tags are tracked within the [Rockfish Sampling Contacts and Records](https://docs.google.com/spreadsheets/d/1hVaB7Wh5BB_hfSLxPLvWwM52cUw4IfROGIHiH_5Y8YM/edit?usp=sharing) spreadsheet under the respective vessel's tab. For a given vessel each month, information on the assigned species and number of tags sent for each species is recorded, as well as the date in which tags were shipped and who the tags were shipped by.
 
+### Making Vessel Tags
+
+Link Vessel labels and Species labels
+
 ### Shipping Vessel Tags
 
-at the end of each month
+Vessel tags are shipped monthly - either within the last week or first week of each month. Tags are shipped via the Sportfishing Association of California's (SAC) USPS Business Account.
+
+[**SAC USPS Account Information:**]{.underline}
+
+**User Name:** *SAC-Deliveries*
+
+**Password:** *FisheriesProjects2023!*
+
+To ship tags, log into USPS account. Under 'Quick Tools' select 'Click-and-Ship'. Scroll down and select 'Create a Single Label'. For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?' For Step 2, key-in relevant shipping information. Tags are typically sent in non-USPS 10 in x 7 in bubble mailer envelopes and are sent via USPS Ground Advantage (starting at \$3.59 per package and delivered within 2-5 days). Select 'Add to Cart' and make additional packing slips (if shipping tags to more than one vessel). Once all packing slips are created, go to shopping cart and select 'Pay Now'. At checkout, select 'Credit & Debit Card' and input the 3-digit CVC (*323*), then click 'Print & Pay'. This will take you to a new page where you can download a PDF copy of the shipping label/receipt. Download and print the shipping label and attach to the package.
+
+To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags *[Insert Month]{.underline} - [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
 
 ## Tracking Vessel Samples
 
-Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institutions. Each institution has their own and then consolidated into a single Google Sheet where the information is extracted and
+Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institutions....
 
 ### Sample Inventory by CDFW Management Region
 
