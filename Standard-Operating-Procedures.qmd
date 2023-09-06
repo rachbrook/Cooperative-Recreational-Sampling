@@ -73,7 +73,7 @@ The vessel crew will sample no more than 25 fish per trip. On a given trip, the 
 
 The vessel crew will sample no more than 50 fish from a single trip per month, and may sample multiple trips if needed to reach 50 fish for the month. On a given trip, the vessel crew will pick two species to sample from the species tags. For one species, the vessel crew will sample 1-2 fish from all odd numbered angler bags (1,3,5, etc.) until they reach 25. The vessel crew will sample 1-2 fish of the second species from all even numbered angler bags (2,4,6, etc.) until they reach 25. The 1-2 fish of the same species will be selected randomly from the bag.
 
-[**Party Boat Vessels Option B (sample up to 50 fish per trip):**](https://drive.google.com/file/d/14bi-9TEZSylgiLCytEaThr1CO-3Eljon/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
+[**Party Boat Vessels Option B (sample up to 25 fish per trip):**](https://drive.google.com/file/d/14bi-9TEZSylgiLCytEaThr1CO-3Eljon/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
 
 The vessel crew will sample at least 25 fish on two trips per month. On the first trip, the vessel crew will pick one of the two species to sample from the assigned species tags. The vessel crew will randomly sample 1-2 individuals from all odd numbered angler bags (1,3,5, etc.) until they reach 25. On the second trip, the crew will follow the same procedure for the second species.
 
@@ -95,11 +95,49 @@ Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek ta
 
 Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
 
-## Tracking Vessel Tags
+## Participating Vessels
+
+Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRSP)
+
+|                                    Vessel Name                                     |      Port       | CDFW Management Region | Vessel Type  | CRSP Vessel Sampling Protocol  |
+|:--------------:|:--------------:|:---------------:|:----------:|:-----------------------:|
+|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |        Central         |    6-PAX     |    Dockside Sampling CCFRP     |
+|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |        Central         |  Party Boat  |  Vessel On-Board Sampling (C)  |
+|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |     San Francisco      |  Party Boat  |    Dockside Sampling CCFRP     |
+|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |       Mendocino        |  Party Boat  |  Vessel On-Board Sampling (B)  |
+|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+
+## Vessel Tags
+
+### Assigning & Tracking Vessel Tags
+
+Vessel tags are provided to each participating vessel on a monthly basis. Species tags are decided based on current inventory and feedback from the vessel captain and/or crew. Vessel tags are tracked within the [Rockfish Sampling Contacts and Records](https://docs.google.com/spreadsheets/d/1hVaB7Wh5BB_hfSLxPLvWwM52cUw4IfROGIHiH_5Y8YM/edit?usp=sharing) spreadsheet under the respective vessel's tab. For a given vessel each month, information on the assigned species and number of tags sent for each species is recorded, as well as the date in which tags were shipped and who the tags were shipped by.
+
+### Shipping Vessel Tags
+
+at the end of each month
 
 ## Tracking Vessel Samples
 
-The tables below show the number per species sampled
+Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institutions. Each institution has their own and then consolidated into a single Google Sheet where the information is extracted and
+
+### Sample Inventory by CDFW Management Region
+
+The following table (**Table 1**) shows the most up to date summary of samples processed per species within each CDFW management region.
 
 ```{r, warning = FALSE, message = FALSE, echo = FALSE}
 
@@ -118,7 +156,7 @@ PacFIN_Codes <- read.csv("PAcFIN_Codes.csv")
 PacFIN_Codes <- PacFIN_Codes %>% 
   rename(PacFIN_Species_Code = PACFIN_SPECIES_CODE)
 
-CRSP_RecFIN_port_renaming <- c("Eureka" = "Northern", "Shelter Cove" = "Mendocino", "Fort Bragg" = "Mendocino", "Bodega Bay" = "San Francisco", "Emeryville" = "San Francisco", "Half Moon Bay" = "San Francisco", "Moss Landing" = "Central", "Morro Bay" = "Central", "Avila Beach" = "Central", "Santa Barbara" = "Southern", "Oxnard" = "Southern", "Dana Point" = "Southern", "San Diego" = "Southern")
+CRSP_RecFIN_port_renaming <- c("Eureka" = "6 - Northern", "Shelter Cove" = "5 - Mendocino", "Fort Bragg" = "5 - Mendocino", "Bodega Bay" = "4 - San Francisco", "Emeryville" = "4 - San Francisco", "Half Moon Bay" = "4 - San Francisco", "Moss Landing" = "3 - Central", "Morro Bay" = "3 - Central", "Avila Beach" = "3 - Central", "Santa Barbara" = "1 & 2 - Southern", "Oxnard" = "1 & 2 - Southern", "Dana Point" = "1 & 2 - Southern", "San Diego" = "1 & 2 - Southern")
 
 CRSP_Data <- CRSP_Data %>% 
   mutate(RecFIN_Port_Name = CRSP_RecFIN_port_renaming[Port])
@@ -127,32 +165,40 @@ CRSP_Data <- CRSP_Data %>%
 merge(.,PacFIN_Codes,by = intersect('PacFIN_Species_Code','PacFIN_Species_Code'), all = F) %>%
 select(c(Project_ID,Sample_ID,RecFIN_Port_Name,Port,Vessel,CDFW_Vessel_Number,Capture_Date,SPECIES_NAME,PacFIN_Species_Code,Fork_Length_mm,Sex,Maturity,Otoliths_Retained,Fin_Clip_Retained,Comments))
 
-datasummary_crosstab(SPECIES_NAME ~ RecFIN_Port_Name, statistic = 1 ~ N, title = 'Number of Species Sampled by CDFW Management Region', data = CRSP_Data)
+datasummary_crosstab(SPECIES_NAME ~ RecFIN_Port_Name, statistic = 1 ~ N, title = 'Table 1: Summary of species sampled to date within each CDFW management region by participating CRSP vessels', data = CRSP_Data)
+
+```
+
+### Sample Inventory by Vessel 
+
+The following tables show the most up to date summary of samples collected by each vessel separated by the following CDFW management regions: Northern (**Table 2**), Mendocino (**Table 3**), San Francisco (**Table 4**), Central (**Table 5**), Southern (**Table 6**)
+
+```{r, warning = FALSE, message = FALSE, echo = FALSE}
 
 Northern <- CRSP_Data %>%
   group_by(RecFIN_Port_Name) %>%
-  filter(RecFIN_Port_Name == "Northern")
-datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Number of Species Sampled by Vessels in the Northern Management Region', data = Northern)
+  filter(RecFIN_Port_Name == "6 - Northern")
+datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 2: Summary of species sampled to date within the Northern Management Region', data = Northern)
 
 Mendocino <- CRSP_Data %>%
   group_by(RecFIN_Port_Name) %>%
-  filter(RecFIN_Port_Name == "Mendocino")
-datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Number of Species Sampled by Vessels in the Mendocino Management Region', data = Mendocino)
+  filter(RecFIN_Port_Name == "5 - Mendocino")
+datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 3: Summary of species sampled to date within the Mendocino Management Region', data = Mendocino)
 
 San_Francisco <- CRSP_Data %>%
   group_by(RecFIN_Port_Name) %>%
-  filter(RecFIN_Port_Name == "San Francisco")
-datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Number of Species Sampled by Vessels in the San Francisco Management Region', data = San_Francisco)
+  filter(RecFIN_Port_Name == "4 - San Francisco")
+datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 4: Summary of species sampled to date within the San Francisco Management Region', data = San_Francisco)
 
 Central <- CRSP_Data %>%
   group_by(RecFIN_Port_Name) %>%
-  filter(RecFIN_Port_Name == "Central")
-datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Number of Species Sampled by Vessels in the Central Management Region', data = Central)
+  filter(RecFIN_Port_Name == "3 - Central")
+datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 5: Summary of species sampled to date within the Central Management Region', data = Central)
 
 Southern <- CRSP_Data %>%
   group_by(RecFIN_Port_Name) %>%
-  filter(RecFIN_Port_Name == "Southern")
-datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Number of Species Sampled by Vessels in the Southern Management Region', data = Southern)
+  filter(RecFIN_Port_Name == "1 & 2 - Southern")
+datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 6: Summary of species sampled to date within the Southern Management Region', data = Southern)
 
 
 ```
