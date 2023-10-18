@@ -141,9 +141,19 @@ Vessel tags are shipped monthly - either within the last week or first week of e
 
 **Password:** *FisheriesProjects2023!*
 
-To ship tags, log into USPS account. Under 'Quick Tools' select 'Click-and-Ship'. Scroll down and select 'Create a Single Label'. For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?' For Step 2, key-in relevant shipping information. Tags are typically sent in non-USPS 10 in x 7 in bubble mailer envelopes and are sent via USPS Ground Advantage (starting at \$3.59 per package and delivered within 2-5 days). Select 'Add to Cart' and make additional packing slips (if shipping tags to more than one vessel). Once all packing slips are created, go to shopping cart and select 'Pay Now'. At checkout, select 'Credit & Debit Card' and input the 3-digit CVC (*323*), then click 'Print & Pay'. This will take you to a new page where you can download a PDF copy of the shipping label/receipt. Download and print the shipping label and attach to the package.
+1.  To ship tags, log into USPS account. Under 'Quick Tools' select 'Click-and-Ship'. Scroll down and select 'Create a Single Label'.
 
-To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags *[Insert Month]{.underline} - [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
+2.   For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?'
+
+3.  For Step 2, key-in relevant shipping information. Tags are typically sent in non-USPS 10 in x 7 in bubble mailer envelopes and are sent via USPS Ground Advantage (starting at \$3.59 per package and delivered within 2-5 days).
+
+4.  Select 'Add to Cart' and make additional packing slips (if shipping tags to more than one vessel). Once all packing slips are created, go to shopping cart and select 'Pay Now'.
+
+5.  At checkout, select 'Credit & Debit Card' and input the 3-digit CVC (*323*), then click 'Print & Pay'. This will take you to a new page where you can download a PDF copy of the shipping label/receipt.
+
+6.  Download and print the shipping label and attach to the package.
+
+7.  To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags *[Insert Month]{.underline} - [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
 
 ## Tracking Vessel Samples
 
