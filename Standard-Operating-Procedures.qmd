@@ -95,31 +95,41 @@ Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek ta
 
 Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
 
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+#| label: fig-include-figure
+#| out-width: "900px"
+#| fig-cap: "Example of a tagged and filleted Copper Rockfish (Sebastes carnatus) sample"
+#| fig-alt: "Example of a tagged and filleted Copper Rockfish (Sebastes carnatus) sample"
+knitr::include_graphics("Copper-Rockfish-Sample.png")
+
+```
+
 ## Participating Vessels
 
 Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRSP)
 
-|                                    Vessel Name                                     |      Port       | CDFW Boat \# | CDFW Management Region | Vessel Type  | CRSP Vessel Sampling Protocol  |
-|:-------------:|:--------------:|:----------:|:------------------------:|:-------------:|:-----------------------:|
-|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |    03233     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |    12360     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |    16699     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |    04990     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |    28054     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |    39022     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |    12758     |        Southern        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |    02214     |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
-|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |    33680     |        Central         |  Party Boat  |    Dockside Sampling CCFRP     |
-|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |    73873     |        Central         |    6-PAX     |    Dockside Sampling CCFRP     |
-|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |    38325     |        Central         |  Party Boat  |  Vessel On-Board Sampling (C)  |
-|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |    37423     |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |    29746     |     San Francisco      |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |    30068     |     San Francisco      |  Party Boat  |    Dockside Sampling CCFRP     |
-|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |    72865     |       Mendocino        |  Party Boat  |  Vessel On-Board Sampling (B)  |
-|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |    06810     |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |    05978     |       Mendocino        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |    71226     |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
-|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |    71246     |        Northern        |    6-PAX     | 6-PAX Vessel On-Board Sampling |
+|                                    Vessel Name                                     |      Port       | CDFW Boat \# | CDFW Management Region | Vessel Type | CRSP Vessel Sampling Protocol  |
+|:-----------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |    03233     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |    12360     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |    16699     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |    04990     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |    28054     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |    39022     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |    12758     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |    02214     |        Central         | Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |    33680     |        Central         | Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |    73873     |        Central         |    6-PAX    |    Dockside Sampling CCFRP     |
+|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |    38325     |        Central         | Party Boat  |  Vessel On-Board Sampling (C)  |
+|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |    37423     |     San Francisco      | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |    29746     |     San Francisco      | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |    30068     |     San Francisco      | Party Boat  |    Dockside Sampling CCFRP     |
+|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |    72865     |       Mendocino        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |    06810     |       Mendocino        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |    05978     |       Mendocino        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |    71226     |        Northern        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |    71246     |        Northern        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
 
 ## Vessel Tags
 
@@ -129,7 +139,23 @@ Vessel tags are provided to each participating vessel on a monthly basis. Specie
 
 ### Making Vessel Tags
 
-Link Vessel labels and Species labels
+Vessel labels and species labels for tags are created through Avery. Labels are made for a 1" x 2 5/8" Easy peel address label template #5136 (produces 30 labels). Most vessel and species labels are downloaded as a PDF from Avery and stored in the [Labels for Printing Folder](https://drive.google.com/drive/folders/1RhFYLp9Z7GObnFLIC52e8ql9CKm6dATv?usp=drive_link) in the Cooperative Recreational Sampling Google Drive.
+
+[**Avery Account Information:**]{.underline}
+
+**Email:** *swfsc.groundfish\@noaa.gov*
+
+**Password:** *!likeR0ckfish!*
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+#| label: fig-include-figure
+#| out-width: "900px"
+#| fig-cap: "Vessel tag example"
+#| fig-alt: "Vessel tag example"
+knitr::include_graphics("Vessel-Tag.png")
+
+```
 
 ### Shipping Vessel Tags
 
@@ -143,7 +169,7 @@ Vessel tags are shipped monthly - either within the last week or first week of e
 
 1.  To ship tags, log into USPS account. Under 'Quick Tools' select 'Click-and-Ship'. Scroll down and select 'Create a Single Label'.
 
-2.   For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?'
+2.  For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?'
 
 3.  For Step 2, key-in relevant shipping information. Tags are typically sent in non-USPS 10 in x 7 in bubble mailer envelopes and are sent via USPS Ground Advantage (starting at \$3.59 per package and delivered within 2-5 days).
 
@@ -153,13 +179,13 @@ Vessel tags are shipped monthly - either within the last week or first week of e
 
 6.  Download and print the shipping label and attach to the package.
 
-7.  To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags *[Insert Month]{.underline} - [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
+7.  To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags [*Insert Month*]{.underline} *- [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
 
 ## Tracking Vessel Samples
 
-Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institutions....
+Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institution. Each institution enters dissection data within their own tab on Google Sheets , then the data is merged using the Query function. The dissection data are auto-populated into the vessel specific tabs within the [Rockfish Sampling Contacts and Records](https://docs.google.com/spreadsheets/d/1hVaB7Wh5BB_hfSLxPLvWwM52cUw4IfROGIHiH_5Y8YM/edit#gid=1355710864) Database. Once a vessel reaches 50 samples, a box is checked manually by Rachel Brooks to signal vessel is ready for payment and triggers notification to Merit McCrea to process payment. All subsequent tables are up to date data from the Google Sheets Database.
 
-### Sample Inventory by CDFW Management Region
+### CRSP Sample Inventory by CDFW Management Region
 
 The following table (**Table 1**) shows the most up to date summary of samples processed per species within each CDFW management region.
 
@@ -193,7 +219,7 @@ datasummary_crosstab(SPECIES_NAME ~ RecFIN_Port_Name, statistic = 1 ~ N, title =
 
 ```
 
-### Sample Inventory by Vessel 
+### CRSP Sample Inventory by Vessel
 
 The following tables show the most up to date summary of samples collected by each vessel separated by the following CDFW management regions: Northern (**Table 2**), Mendocino (**Table 3**), San Francisco (**Table 4**), Central (**Table 5**), Southern (**Table 6**)
 
@@ -225,4 +251,209 @@ Southern <- CRSP_Data %>%
 datasummary_crosstab(SPECIES_NAME ~ Vessel, statistic = 1 ~ N, title = 'Table 6: Summary of species sampled to date within the Southern Management Region', data = Southern)
 
 
+```
+
+## Specimen Identification Code and Database Fields
+
+| Database Field          | Description                                                                                                                                                                                                                      |
+|-------------------|----------------------------------------------------|
+| **Sample_ID**           | Sample ID code automatically generated in Google Sheets to uniquely identify samples. Code is as follows: 'Year_Month_Code'-'Project_ID'-'CDFW_Vessel_Number'-'PacFIN_Species_Code'-'Sample_Number'                              |
+| **Year_Month_Code**     | 6-digit number starting with the 4-digit year immediately followed by 2-digit numbered month of recapture (i.e., YYYYMM).                                                                                                        |
+| **Project_ID**          | 4-digit number assigned by NMFS SWFSC. Cooperative Recreational Sampling Project ID is 1012.                                                                                                                                     |
+| **CDFW_Vessel_Number**  | 5-digit number assigned to the Commercial passenger fishing vessel (CPFV) by CDFW.                                                                                                                                               |
+| **PacFIN_Species_Code** | 4-letter unique code assigned to California species. Look-up table for species codes: <https://docs.google.com/spreadsheets/d/1Pu-XIHSKsW1cFWG1eXEqPxwyHaQrscc1/edit?usp=sharing&ouid=104781314229995097143&rtpof=true&sd=true>  |
+| **Sample_Number**       | A number assigned to each fish during dissections. The sample number for the first fish will be 1 and sequentially increase as you process fish throughout the season.                                                           |
+| **Port**                | Fishing port in which the samples were landed.                                                                                                                                                                                   |
+| **Capture_Date**        | Date in which the fish were captured - written by crew on tag. Entered as MM/DD/YYYY.                                                                                                                                            |
+| **Vessel**              | Name of vessel where samples were collected - listed on tag.                                                                                                                                                                     |
+| **Forked_Length_mm**    | Length measurement of the fish from the tip of the snout (mouth closed) to the center of the caudal fin fully splayed measured to the millimeter - written by crew on tag.                                                       |
+| **Sex**                 | Select either 'M', 'F', or 'U'. M=Male, F=Female, and U=Unknown.                                                                                                                                                                 |
+| **Maturity**            | Select either '0', '1', or 'UNK'. 0=Immature (Stage 1), 1=Mature (Stage 2-7), UNK=Unknown.                                                                                                                                       |
+| **Otolith_Retained**    | Select either 'Yes' or 'No'. [**NOTE:**]{.underline} If the otolith's were broken or only one otolith was extracted, please make note in comments section.                                                                       |
+| **Fin_Clip_Retained**   | Select either 'Yes' or 'No'. [**NOTE:**]{.underline} Fin clips are only taken from fish that have not been frozen.                                                                                                               |
+| **Comments**            | Other notes or information recorded about the fish can go in this section.                                                                                                                                                       |
+
+## Comparing CRFS & CRSP Data
+
+### California Recreational Fisheries Survey (CRFS) Data:
+
+CRFS data was retrieved from the Recreational Fisheries Information Network (<https://www.recfin.org/>).
+
+**Date Accessed:** August 29th, 2023 (*needs to be updated every time data is downloaded*)
+
+**Date Range of CFRFS Data:** 01/2023-07/2023 (*needs to be updated every time data is downloaded*)
+
+**Notes about CRFS Data:** Data filtered to include only fish sampled in CA within 2023 from party/charter boats. Data filtered to include all all ports, all water areas, all fish areas, all trip types, all sources, both released and retained, groundfish, all complexes, rockfish, all species.
+
+### Cooperative Recreational Sampling Program (CRSP) Data:
+
+CRSP data is currently being stored on Google Drive in Google Sheets: [https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit#gid=0](https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit#gid=0https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit#gid=0)
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+Import, rename, and merge the CRFS and CRSP data tables into one single data frame ('Full_Data') for species-specific comparison within management districts.
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo = TRUE)
+library(tidyverse)
+library(data.table)
+library(ggplot2)
+library(googlesheets4)
+
+#gs4_deauth()
+#gs4_auth()
+
+#Pull Data from Google Sheets; Selection: 1 for authentication
+CRSP_Data <- read_sheet("https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit#gid=0")
+
+PacFIN_Codes <- read.csv("PAcFIN_Codes.csv")
+PacFIN_Codes <- PacFIN_Codes %>% 
+  rename(PacFIN_Species_Code = PACFIN_SPECIES_CODE)
+
+CRSP_RecFIN_port_renaming <- c("Eureka" = "6 - Northern", "Shelter Cove" = "5 - Mendocino", "Fort Bragg" = "5 - Mendocino", "Bodega Bay" = "4 - San Francisco", "Emeryville" = "4 - San Francisco", "Half Moon Bay" = "4 - San Francisco", "Moss Landing" = "3 - Central", "Morro Bay" = "3 - Central", "Avila Beach" = "3 - Central", "Santa Barbara" = "1 & 2 - Southern", "Oxnard" = "1 & 2 - Southern", "Dana Point" = "1 & 2 - Southern", "San Diego" = "1 & 2 - Southern")
+
+CRSP_Data <- CRSP_Data %>% 
+  mutate(RecFIN_Port_Name = CRSP_RecFIN_port_renaming[Port])
+
+CRSP_Data_2 <- CRSP_Data %>% 
+merge(.,PacFIN_Codes,by = intersect('PacFIN_Species_Code','PacFIN_Species_Code'), all = F) %>%
+select(c(Project_ID,Sample_ID,RecFIN_Port_Name,Port,Vessel,CDFW_Vessel_Number,Capture_Date,SPECIES_NAME,PacFIN_Species_Code,Fork_Length_mm,Sex,Maturity,Otoliths_Retained,Fin_Clip_Retained,Comments))
+
+
+CRSP_Data <- CRSP_Data %>% 
+  merge(.,PacFIN_Codes,by = intersect('PacFIN_Species_Code','PacFIN_Species_Code'), all = F) %>%
+  select(c(PacFIN_Species_Code,RecFIN_Port_Name,Fork_Length_mm,SPECIES_NAME))
+
+CRSP_Data <- CRSP_Data %>%
+  rename(RECFIN_PORT_NAME = RecFIN_Port_Name, LENGTH_MM = Fork_Length_mm)
+
+CRSP_Data <- select(CRSP_Data,'RECFIN_PORT_NAME','SPECIES_NAME','LENGTH_MM')
+
+CRSP_Data <- CRSP_Data %>%
+  mutate(DATA_SOURCE = rep("CRSP", n()))
+
+
+#Import CRFS data and filter by CDFW management region
+CRFS_Data <- read.csv("CRFS-Data-Accessed-20231016.csv")
+
+CRFS_RecFIN_port_renaming <- c("REDWOOD (HUMBOLDT COUNTY, EXCEPT SHELTER COVER AREA, AND DEL NORTE COUNTY)" = "6 - Northern", "WINE (MENDOCINO COUNTY AND SHELTER COVE AREA IN HUMBOLDT COUNTY)" = "5 - Mendocino", "BAY AREA (SONOMA, MARIN, SOLANO, NAPA, CONTRA COSTA, ALAMEDA, SANTA CLARA, SAN MATEO, SAN FRANCISCO COUNTIES)" = "4 - San Francisco", "CENTRAL (SAN LUIS OBISPO, MONTEREY AND SANTA CRUZ COUNTIES)" = "3 - Central", "CHANNEL (VENTURA AND SANTA BARBARA COUNTIES)" = "1 & 2 - Southern", "SOUTH (SAN DIEGO, ORANGE AND LOS ANGELES COUNTIES)" = "1 & 2 - Southern")
+
+CRFS_Data <- CRFS_Data %>% 
+  rename(SPECIES_NAME = Species.Name, RECFIN_PORT_NAME = RecFIN.Port.Name, LENGTH_MM = RecFIN.Length.MM)
+
+CRFS_Data <- CRFS_Data %>% 
+  mutate(RECFIN_PORT_NAME = CRFS_RecFIN_port_renaming[RECFIN_PORT_NAME])
+
+CRFS_Data <- select(CRFS_Data,'RECFIN_PORT_NAME','SPECIES_NAME','LENGTH_MM')
+
+CRFS_Data <- CRFS_Data %>%
+  mutate(DATA_SOURCE = rep("CRFS", n()))
+
+#Merge the two data types into one master dataset
+Full_Data <- rbind(CRFS_Data, CRSP_Data)
+Full_Data <- Full_Data[,c(4,1,2,3)]
+Full_Data$LENGTH_MM <- as.numeric(Full_Data$LENGTH_MM)
+
+```
+
+### Filter CRFS & CRSP length data by CDFW Management Area
+
+CDFW Management Area Include:
+
+1.  **Northern** - Ports between the OR/CA Border to Cape Mendocino Area
+2.  **Mendocino** - Ports between the Cape Mendocino Area to Point Arena
+3.  **San Francisco** - Ports between the Point Arena to Pigeon Point
+4.  **Central** - Ports between the Pigeon Point to Point Conception
+5.  **Southern** - Ports between the Point Conception to US/MX Border
+
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+
+Filter 'Full_Data' into separate dataframes for each CDFW management region. Create tables to view number of lengths from each data set (CRFS & CRSP) by species.
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+library(modelsummary)
+library(tidyverse)
+
+#NORTHERN
+Northern <- Full_Data %>%
+  group_by(RECFIN_PORT_NAME) %>%
+  filter(RECFIN_PORT_NAME == "6 - Northern")
+
+#MENDOCINO
+Mendocino <- Full_Data %>%
+  group_by(RECFIN_PORT_NAME) %>%
+  filter(RECFIN_PORT_NAME == "5 - Mendocino")
+
+#SAN FRANCISCO
+San_Francisco <- Full_Data %>%
+  group_by(RECFIN_PORT_NAME) %>%
+  filter(RECFIN_PORT_NAME == "4 - San Francisco")
+
+#CENTRAL
+Central <- Full_Data %>%
+  group_by(RECFIN_PORT_NAME) %>%
+  filter(RECFIN_PORT_NAME == "3 - Central")
+
+#SOUTHERN
+Southern <- Full_Data %>%
+  group_by(RECFIN_PORT_NAME) %>%
+  filter(RECFIN_PORT_NAME == "1 & 2 - Southern")
+
+```
+
+### Length Distribution Plots Comparing CRFS & CRSP Data
+
+Species-specific density distribution plots comparing species-specific CRFS & CRPS surveyed lengths. Species plots where no distribution occurs only had one specimen sampled from either CRFS or CRSP.
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE, fig.height=30, fig.width=20}
+
+alpha = 0.5
+theme_set(theme_classic(base_size = 20))
+
+#NORTHERN
+Northern_length_plot <- ggplot(Northern, aes(x = LENGTH_MM, fill = DATA_SOURCE))+
+  geom_density(lwd = 1.2, linetype = 1, alpha = 0.7)+
+  scale_fill_manual(values = c("tomato","steelblue3"))+
+  facet_wrap(~SPECIES_NAME , ncol = 2, scales = "free")+
+  labs(x = "Fork Length (cm)", y = "Frequency", title = "Northern CA Management")
+print(Northern_length_plot)
+
+
+#MENDOCINO
+Mendocino_length_plot <- ggplot(Mendocino, aes(x = LENGTH_MM, fill = DATA_SOURCE))+
+  geom_density(lwd = 1.2, linetype = 1, alpha = 0.7) + 
+  scale_fill_manual(values = c("tomato","steelblue3"))+  
+  facet_wrap(~ SPECIES_NAME , ncol = 2, scales = "free_y") +
+  labs(x = "Fork Length (cm)", y = "Frequency", title = "Mendocino CA Management")
+print(Mendocino_length_plot)
+
+
+#SAN FRANCISCO
+San_Francisco_length_plot <- ggplot(San_Francisco, aes(x = LENGTH_MM, fill = DATA_SOURCE))+
+  geom_density(lwd = 1.2, linetype = 1, alpha = 0.7) + 
+  scale_fill_manual(values = c("tomato","steelblue3"))+
+  facet_wrap(~ SPECIES_NAME , ncol = 2, scales = "free_y") +
+  labs(x = "Fork Length (cm)", y = "Frequency", title = "San Francisco CA Management")
+print(San_Francisco_length_plot)
+
+
+#CENTRAL
+Central_length_plot <- ggplot(Central, aes(x = LENGTH_MM, fill = DATA_SOURCE))+
+  geom_density(lwd = 1.2, linetype = 1, alpha = 0.7) +
+  scale_fill_manual(values = c("tomato","steelblue3"))+
+  facet_wrap(~ SPECIES_NAME , ncol = 2, scales = "free_y") +
+  labs(x = "Fork Length (cm)", y = "Frequency", title = "Central CA Management")
+print(Central_length_plot)
+
+
+#SOUTHERN
+Southern_length_plot <- ggplot(Southern, aes(x = LENGTH_MM, fill = DATA_SOURCE))+
+  geom_density(lwd = 1.2, linetype = 1, alpha = 0.7) + 
+  scale_fill_manual(values = c("tomato","steelblue3"))+
+  facet_wrap(~ SPECIES_NAME , ncol = 2, scales = "free_y") +
+  labs(x = "Fork Length (cm)", y = "Frequency", title = "Southern CA Management")
+print(Southern_length_plot)
+     
 ```
