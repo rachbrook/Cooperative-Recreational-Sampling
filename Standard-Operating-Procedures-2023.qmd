@@ -1,0 +1,377 @@
+---
+title: "Cooperative Recreational Sampling Program"
+subtitle: "Standard Operating Procedures"
+format: html
+editor: visual
+---
+
+## Contact Information
+
+**Melissa Monk**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** [melissa.monk\@noaa.gov](melissa.monk@noaa.gov)
+
+**Kenneth Franke**, *Sportfishing Association of California (SAC),* **email:** [kennethfrankesac\@gmail.com](kennethfrankesac@gmail.com)
+
+**Rachel Brooks**, *NOAA Southwest Fisheries Science Center (SWFSC)*, **email:** [rachel.brooks\@noaa.gov](rachel.brooks@noaa.gov)
+
+**Merit McCrea**, *Sportfishing Association of California (SAC),* **email:** [meritmmcrea\@hotmail.com](edwin@sportfishca.org)
+
+**Edwin Reyes**, *Sportfishing Association of California (SAC),* **email:** [edwin\@sportfishca.org](edwin@sportfishca.org)
+
+## Background
+
+The 2018 Marine Life Management Act Master Plan for fisheries specifically recommends prioritizing additional environmental and fisheries monitoring to increase climate resiliency. Biological sampling of targeted fishes is critical to understanding the effects of environmental change and the corresponding impacts on managed fisheries, and can provide the baseline data needed to manage a fishery for increased ecological resilience. In addition to increasing climate-resiliency, monitoring and sampling life-history characteristics of targeted species is necessary for adaptive management, where knowing how specific age/size classes within a fishery are being impacted is the first step in developing management strategies that guard against over-exploitation. 
+
+While CDFW currently surveys the landings and length distributions of rockfishes encountered by the recreational fishing fleet as part of the California Recreational Fisheries Survey (CRFS); CRFS does not currently collect otoliths (for age and growth), fin clips (for genetic analyses), or any other biological information only available from examining the internal organs of a fish (i.e., sex, maturity status, fecundity, condition). This lack of sampling means that many management decisions are currently being made with incomplete or insufficient data, leading to uncertainty in the assessments and questioning of the process/outcomes by stakeholders. 
+
+Additionally, the lack of sampling leads to a critical lack of information about the spatial scale of how targeted species are reacting to both fishing pressure and climate change. Specifically, how life history traits are changing in response to marine heatwaves and other local climate change effects. This is particularly important for reef-associated nearshore fishes, as they occupy habitats likely to be impacted most by changing ocean conditions.
+
+In partnership with the Sportfishing Association of California (SAC), the NOAA Fisheries Ecology Division (FED) at the Southwest Fisheries Science Center is piloting a \# year-long cooperative sampling project to collect biological samples for groundfishes from the for-hire recreational fishing fleet across California. Vessel captains and crew members are trained to measure and retain groundfish samples of specific target species (see Vessel Sampling Protocols for more details). The samples are then labeled, organized, preserved and shipped to NOAA SWFSC and California Collaborative Fisheries Research Program (CCFRP) campuses for further dissections and analysis. The life history information generated from this biological data are incorporated into current federal stock assessment efforts.
+
+### Project Objectives:
+
+1.  Collect information on federally-managed groundfish species in cooperation with the Sportfishing Association of California (SAC) and the California commercial passenger fishing vessel (CPFV) fleet during the recreational fishing season to inform stock assessments and management.
+
+2.  Charter CPFVs during months when rockfish are spawning for additional biological data on maturity and fecundity.
+
+## 2023 CDFW Recreational Groundfish Season Structure
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+#| label: fig-include-figure
+#| out-width: "900px"
+#| fig-cap: "2023 recreational groundfish season structure separated by CDFW management areas"
+#| fig-alt: "2023 recreational groundfish season structure separated by CDFW management areas"
+knitr::include_graphics("CDFW-regulation.PNG")
+
+```
+
+### 2023 In-Season Groundfish Regulation Changes:
+
+-   **Effective August 7th, 2023:** Retention of quillback rockfish (*Sebastes maliger*) is prohibited statewide in both the recreational and commercial fisheries - *announced July 28th, 2023*
+
+-   **Effective August 21st, 2023:** Recreational boat-based groundfish fishing will only be permitted seaward of the 50 fathom Rockfish Conservation Area (RCA) boundary line for the Northern Groundfish Management Area (GMA) - *announced August 11th, 2023*
+
+-   **Effective September 1st, 2023:** Recreational boat-based groundfish fishing will only be permitted seaward of the 50 fathom Rockfish Conservation Area (RCA) boundary line for the Mendocino Groundfish Management Area (GMA), San Francisco GMA, and Central Coast GMA - *announced August 21st, 2023*
+
+## Vessel Sampling Protocols
+
+To collect life history information on groundfish species in cooperation with the California CPFV fleet, we have identified several different potential methods that we will explore during the 2023 fishing season.  These three methods are all preliminary and the program will adapt based on feedback from the fleet and scientists. Each vessel/landing will receive training and instructions specific to their protocol.
+
+### On-Board Sampling by Vessel Crew Members
+
+Every 1-2 month period, or as needed, each vessel will receive 50 tags. The expectation is to sample 50 fish over the course of one month, and, to the extent possible, distribute the sampling evenly over the 1-month period.
+
+Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on a provided  L-shaped measuring board by a crew member prior to fileting. The crew will measure the fish and record the length and capture date with permanent ink (a "sharpie") on the Tyvek tag. Once the fish has been measured, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The tagged carcass will then be placed in a contractor trash bag and cooler and stored in a freezer prior to being shipped or picked up by NMFS or CCFRP researchers for laboratory processing.
+
+Each vessel will be compensated \$300 a month for participation in this cooperative sampling contingent on providing 50 samples per month.
+
+[**6-PAX Vessels:**](https://drive.google.com/file/d/1OFiml_G4lwsWu2RsiYxac2mk8eRYo7p9/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
+
+The vessel crew will sample no more than 25 fish per trip. On a given trip, the vessel crew will sample all tagged species kept by anglers on trips until they have reached 25 of each. The vessel crew can fill in with BONUS samples as needed with a maximum of 8 fish per trip.
+
+[**Party Boat Vessels Option A (sample up to 50 fish per trip):**](https://drive.google.com/file/d/10tcgyl3dkq_NRH5TrU9DeakOrtZvPEXL/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
+
+The vessel crew will sample no more than 50 fish from a single trip per month, and may sample multiple trips if needed to reach 50 fish for the month. On a given trip, the vessel crew will pick two species to sample from the species tags. For one species, the vessel crew will sample 1-2 fish from all odd numbered angler bags (1,3,5, etc.) until they reach 25. The vessel crew will sample 1-2 fish of the second species from all even numbered angler bags (2,4,6, etc.) until they reach 25. The 1-2 fish of the same species will be selected randomly from the bag.
+
+[**Party Boat Vessels Option B (sample up to 25 fish per trip):**](https://drive.google.com/file/d/14bi-9TEZSylgiLCytEaThr1CO-3Eljon/view?usp=sharing) 25 tags per species for a predetermined suite of groundfish (e.g., rockfish, greenlings, California scorpionfish), along with tags for opportunistic sampling of less commonly encountered species (i.e., BONUS tags) will be provided. The flexibility of having tags for multiple species is needed to ensure collection of adequate sample sizes for assessments. One motivation for providing tags for a suite of species is that vessels fishing in an area where "All Depths" are open may fish farther from port on good weather days and closer to port during sub-optimal conditions, resulting in different species compositions in the catch.
+
+The vessel crew will sample at least 25 fish on two trips per month. On the first trip, the vessel crew will pick one of the two species to sample from the assigned species tags. The vessel crew will randomly sample 1-2 individuals from all odd numbered angler bags (1,3,5, etc.) until they reach 25. On the second trip, the crew will follow the same procedure for the second species.
+
+[**Party Boat Vessels Option C (sample whole bags):**](https://drive.google.com/file/d/1rIka7pY_DXWL-FqTUodazEqWex9ovj0W/view?usp=sharing) 50 write-in species tags will be provided each month. The vessel crew will identify 3-5 volunteer anglers to have their bags sampled prior to having their fish filleted. The vessel crew will sample a subset of species using the following procedures: (1) the sampler will measure and tag two randomly selected vermilion rockfish from each bag; (2) the sampler will measure and tag all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish, and bocaccio rockfish. Although this tag provides an extra step of writing in the species, it will provide greater flexibility and opportunity to sample throughout the groundfish season.
+
+### On-Board Sampling by NMFS/CCFRP Researcher
+
+[**On-Board Sampling by Researcher:**](https://drive.google.com/file/d/1o7kY7kULP_budD7yP4ZCjEFSpdjwJd3N/view?usp=sharing) One to three times per month, a NMFS or CCFRP researcher will coordinate with the vessel to ride along on a fishing charter to sample the catch from the trip. The sampler will identify 5-7 anglers to have their bags sampled prior to having their fish filleted. The NMFS or CCFRP sampler will sample a subset of species using the following procedures: (1) the sampler will measure and tag two randomly selected vermilion rockfish from each bag; (2) the sampler will measure and tag all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish, and bocaccio rockfish. In addition to the 5 bags, the sampler will opportunistically measure and tag priority species (i.e., copper rockfish, quillback rockfish) or less commonly encountered species (e.g., tiger rockfish, flag rockfish) onboard. 
+
+Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on an L-shaped measuring board by the NMFS or CCFRP sampler.  The tag will indicate to the crew that the fish was selected for sampling. The NMFS or CCFRP sampler will measure the fish and record the length and capture date with a sharpie on the Tyvek tag. Once the fish has been measured by the NMFS or CCFRP sampler, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The carcass will be handed off to the NMFS or CCFRP sampler for immediate processing either at the dock or back at the laboratory facility.  
+
+This sampling may occur in tandem with an onboard observer trip conducted by Cal Poly SLO, and in other locations, if the captains agree, similar onboard observer data will be collected during a ride-along.  All information that the vessel considers proprietary or confidential will remain confidential. Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
+
+### Dockside Sampling by NMFS/CCFRP Researcher
+
+[**On-Dock Sampling by Researcher:**](https://drive.google.com/file/d/19i_ubpa1QG1Ra2br7qk-RAFmMVGjmr5J/view?usp=sharing) One to three times a month, a NMFS or CCFRP researcher will coordinate with the vessel operator to sample the catch from the trip once the vessel returns to the fishing dock. At the start of the trip the vessel crew will identify 5 customers willing to have their bags sampled back at the dock prior to having their fish fileted.  The NMFS or CCFRP sampler will meet the vessel at the dock and sample a subset of species using the following procedures: (1) the sampler will sample only two randomly selected vermilion rockfish from each bag; (2) the sampler will sample all other species in the bag except bank rockfish, chilipepper rockfish, widow rockfish and bocaccio rockfish. 
+
+Each sampled fish will be tagged through the lower jaw/operculum with a Tyvek tag that is pre-labelled with the vessel name and species, and will be measured on an L-shaped measuring board by the NMFS or CCFRP sampler prior to filleting. To measure the fish, the NMFS or CCFRP sampler will position the fish flat on the measuring board with the mouth closed and pressed up against the tip of the board at the zero line with the caudal fin splayed out and not pinched. The NMFS or CCFRP sampler will measure the fish to the nearest millimeter at the center of the caudal fin and record the length and capture date with a sharpie on the Tyvek tag. Once the fish has been measured by the NMFS or CCFRP sampler, the crew can filet the fish leaving the stomach cavity intact for later sex and maturity stage determination. The carcass will be handed off to the NMFS or CCFRP sampler for processing either at the dock or back at the laboratory facility.
+
+Each vessel will be compensated \$300 each month for participation in this cooperative sampling.
+
+```{r, warning = FALSE, message = FALSE, echo = FALSE}
+
+#| label: fig-include-figure
+#| out-width: "200px"
+#| fig-cap: "Example of a tagged and filleted Copper Rockfish (Sebastes carnatus) sample"
+#| fig-alt: "Example of a tagged and filleted Copper Rockfish (Sebastes carnatus) sample"
+knitr::include_graphics("Copper-Rockfish-Sample.png")
+
+```
+
+## Participating Vessels
+
+Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRSP)
+
+|                                    Vessel Name                                     |      Port       | CDFW Boat \# | CDFW Management Region | Vessel Type | CRSP Vessel Sampling Protocol  |
+|:----------------------------------------------------------------------------------:|:---------------:|:------------:|:----------------------:|:-----------:|:------------------------------:|
+|                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |    03233     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |    12360     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |    16699     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
+|                      [*Betty-O*](https://mdrsf.com/betty-o/)                       | Marina Del Rey  |    04990     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                  [*Mirage*](https://www.miragesportfishing.com/)                   | Channel Islands |    28054     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+| [*Stardust*](https://www.stardustsportfishing.com/galleries/1058-stardust-gallery) |  Santa Barbara  |    39022     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|  [*Coral Sea*](https://www.stardustsportfishing.com/galleries/1056-the-coral-sea)  |  Santa Barbara  |    12758     |        Southern        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|               [*Patriot*](https://patriotsportfishing.com/patriot/)                |   Avila Beach   |    02214     |        Central         | Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Fiesta*](virgslanding.com/fleet-safety/fiesta-3/)                 |    Morro Bay    |    33680     |        Central         | Party Boat  |    Dockside Sampling CCFRP     |
+|                [*Last Meal*](https://www.lastmealsportfishing.com/)                |  Moss Landing   |    73873     |        Central         |    6-PAX    |    Dockside Sampling CCFRP     |
+|                  [*Kahuna*](https://www.kahunasportfishing.com/)                   |  Moss Landing   |    38325     |        Central         | Party Boat  |  Vessel On-Board Sampling (C)  |
+|             [*Queen of Hearts*](https://www.klughersportfishing.com/)              |  Half Moon Bay  |    37423     |     San Francisco      | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                 [*Sea Wolf*](https://www.seawolfsportfishing.com/)                 |   Emeryville    |    29746     |     San Francisco      | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                [*New Sea Angler*](https://www.bodegacharters.com/)                 |   Bodega Bay    |    30068     |     San Francisco      | Party Boat  |    Dockside Sampling CCFRP     |
+|               [*Kraken*](https://anchorcharterboats.com/the-kraken/)               |   Fort Bragg    |    72865     |       Mendocino        | Party Boat  |  Vessel On-Board Sampling (B)  |
+|                    [*Kyndall Lynn*](https://fishtanksite.com/)                     |   Fort Bragg    |    06810     |       Mendocino        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|                   [*Sea Hawk*](https://seahawksportfishing.com/)                   |  Shelter Cove   |    05978     |       Mendocino        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|               [*New Reel Steel*](http://reelsteelsportfishing.com/)                |     Eureka      |    71226     |        Northern        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+|                [*Scrimshaw*](https://coastlinefishingcharters.com/)                |     Eureka      |    71246     |        Northern        |    6-PAX    | 6-PAX Vessel On-Board Sampling |
+
+## Vessel Tags
+
+### Assigning & Tracking Vessel Tags
+
+Vessel tags are provided to each participating vessel on a monthly basis. Species tags are decided based on current inventory and feedback from the vessel captain and/or crew. Vessel tags are tracked within the [Rockfish Sampling Contacts and Records](https://docs.google.com/spreadsheets/d/1hVaB7Wh5BB_hfSLxPLvWwM52cUw4IfROGIHiH_5Y8YM/edit?usp=sharing) spreadsheet under the respective vessel's tab. For a given vessel each month, information on the assigned species and number of tags sent for each species is recorded, as well as the date in which tags were shipped and who the tags were shipped by.
+
+### Making Vessel Tags
+
+Vessel labels and species labels for tags are created through Avery. Labels are made for a 1" x 2 5/8" Easy peel address label template #5136 (produces 30 labels). Most vessel and species labels are downloaded as a PDF from Avery and stored in the [Labels for Printing Folder](https://drive.google.com/drive/folders/1RhFYLp9Z7GObnFLIC52e8ql9CKm6dATv?usp=drive_link) in the Cooperative Recreational Sampling Google Drive.
+
+[**Avery Account Information:**]{.underline}
+
+**Email:** *swfsc.groundfish\@noaa.gov*
+
+**Password:** *!likeR0ckfish!*
+
+```{r, warning = FALSE, message = FALSE, echo = TRUE}
+
+#| label: fig-include-figure
+#| out-width: "200px"
+#| fig-cap: "Vessel tag example"
+#| fig-alt: "Vessel tag example"
+knitr::include_graphics("Vessel-Tag.png")
+
+```
+
+### Shipping Vessel Tags
+
+Vessel tags are shipped monthly - either within the last week or first week of each month. Tags are shipped via the Sportfishing Association of California's (SAC) USPS Business Account.
+
+[**SAC USPS Account Information:**]{.underline}
+
+**User Name:** *SAC-Deliveries*
+
+**Password:** *FisheriesProjects2023!*
+
+1.  To ship tags, log into USPS account. Under 'Quick Tools' select 'Click-and-Ship'. Scroll down and select 'Create a Single Label'.
+
+2.  For Step 1, key-in relevant delivery address information in (NOTE: Most shipping addresses are saved in the SAC accounts Address Book) and check 'No' for '*Are you shipping dangerous goods or hazardous materials*?'
+
+3.  For Step 2, key-in relevant shipping information. Tags are typically sent in non-USPS 10 in x 7 in bubble mailer envelopes and are sent via USPS Ground Advantage (starting at \$3.59 per package and delivered within 2-5 days).
+
+4.  Select 'Add to Cart' and make additional packing slips (if shipping tags to more than one vessel). Once all packing slips are created, go to shopping cart and select 'Pay Now'.
+
+5.  At checkout, select 'Credit & Debit Card' and input the 3-digit CVC (*323*), then click 'Print & Pay'. This will take you to a new page where you can download a PDF copy of the shipping label/receipt.
+
+6.  Download and print the shipping label and attach to the package.
+
+7.  To keep track of vessel tag shipping expenses, save a copy of the shipping label/receipt to the [USPS Receipts Folder](https://drive.google.com/drive/folders/1Au1fgI4Q4YLSMRgdUK6k4wnxC3-nAtSh?usp=drive_link). Additionally, make sure to add in a line item charge for each shipping label to the '[PSMFC 23-001C; SAC 1247.23' tab of the PSMFC Funds Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1B21y44leBmms9Unx1HGpoDxx2XMXN5p7k_OTchB_RWg/edit?usp=sharing). Under the 'Item' column, list 'Supplies - USPS shipping tags [*Insert Month*]{.underline} *- [Insert Vessel Name or CCFRP Institution]{.underline}';* under the 'Encumbered Funds' column, list the price of the individual shipping label (should not exceed \$5.00); under the 'Notes' column, list the date in which the tags were shipped.
+
+## Tracking Vessel Samples
+
+Vessel samples are tracked two-fold via routine monthly check-in's with participating vessels and via data entry tracking. Data collected from sampled carcasses are entered into a Google Sheets Database by participating CCFRP institution. Each institution enters dissection data within their own tab on Google Sheets , then the data is merged using the Query function. The dissection data are auto-populated into the vessel specific tabs within the [Rockfish Sampling Contacts and Records](https://docs.google.com/spreadsheets/d/1hVaB7Wh5BB_hfSLxPLvWwM52cUw4IfROGIHiH_5Y8YM/edit#gid=1355710864) Database. Once a vessel reaches 50 samples, a box is checked manually by Rachel Brooks to signal vessel is ready for payment and triggers notification to Merit McCrea to process payment. All subsequent tables are up to date data from the Google Sheets Database.
+
+## Specimen Identification Code and Database Fields
+
+| Database Field          | Description                                                                                                                                                                                                                         |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Institution**         | The institution that processed the carcasses: HSU (Cal Poly Humboldt), BML (Bodega Marine Labs), MLML (Moss Landing Marine Labs), CP (Cal Poly San Luis Obispo), UCSB (UC Santa Barbara), SIO (Scripps Institution of Oceanography) |
+| **Year**                | The year in which the sample was collected                                                                                                                                                                                          |
+| **Sample_ID**           | Sample ID code automatically generated in Google Sheets to uniquely identify samples. Code is as follows: 'Year_Month_Code'-'Project_ID'-'CDFW_Vessel_Number'-'PacFIN_Species_Code'-'Sample_Number'                                 |
+| **Year_Month_Code**     | 6-digit number starting with the 4-digit year immediately followed by 2-digit numbered month of recapture (i.e., YYYYMM).                                                                                                           |
+| **Project_ID**          | 4-digit number assigned by NMFS SWFSC. Cooperative Recreational Sampling Project ID is 1012.                                                                                                                                        |
+| **CDFW_Vessel_Number**  | 5-digit number assigned to the Commercial passenger fishing vessel (CPFV) by CDFW.                                                                                                                                                  |
+| **PacFIN_Species_Code** | 4-letter unique code assigned to California species. Look-up table for species codes: <https://docs.google.com/spreadsheets/d/1Pu-XIHSKsW1cFWG1eXEqPxwyHaQrscc1/edit?usp=sharing&ouid=104781314229995097143&rtpof=true&sd=true>     |
+| **Sample_Number**       | A number assigned to each fish during dissections. The sample number for the first fish will be 1 and sequentially increase as you process fish throughout the season.                                                              |
+| **Port**                | Fishing port in which the samples were landed.                                                                                                                                                                                      |
+| **Capture_Date**        | Date in which the fish were captured - written by crew on tag. Entered as MM/DD/YYYY.                                                                                                                                               |
+| **Vessel**              | Name of vessel where samples were collected - listed on tag.                                                                                                                                                                        |
+| **Forked_Length_mm**    | Length measurement of the fish from the tip of the snout (mouth closed) to the center of the caudal fin fully splayed measured to the millimeter - written by crew on tag.                                                          |
+| **Sex**                 | Select either 'M', 'F', or 'U'. M=Male, F=Female, and U=Unknown.                                                                                                                                                                    |
+| **Maturity**            | Select either '0', '1', or 'UNK'. 0=Immature (Stage 1), 1=Mature (Stage 2-7), UNK=Unknown.                                                                                                                                          |
+| **Otolith_Retained**    | Select either 'Yes' or 'No'. [**NOTE:**]{.underline} If the otolith's were broken or only one otolith was extracted, please make note in comments section.                                                                          |
+| **Fin_Clip_Retained**   | Select either 'Yes' or 'No'. [**NOTE:**]{.underline} Fin clips are only taken from fish that have not been frozen.                                                                                                                  |
+| **Comments**            | Other notes or information recorded about the fish can go in this section.                                                                                                                                                          |
+
+### Overall CRSP Sample Inventory
+
+The following table (**Table 1**) shows the most up to date summary of samples processed per species within each CDFW management region.
+
+```{r, warning = FALSE, message = FALSE, echo = FALSE}
+
+library(googlesheets4)
+library(modelsummary)
+library(tidyverse)
+library(data.table)
+library(ggplot2)
+
+#gs4_deauth()
+#gs4_auth()
+
+CRSP_Data <- read_sheet("https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit?usp=sharing")
+
+PacFIN_Codes <- read.csv("PAcFIN_Codes.csv")
+PacFIN_Codes <- PacFIN_Codes %>% 
+  rename(PacFIN_Species_Code = PACFIN_SPECIES_CODE)
+
+CRSP_RecFIN_port_renaming <- c("Eureka" = "6 - Northern", "Shelter Cove" = "5 - Mendocino", "Fort Bragg" = "5 - Mendocino", "Bodega Bay" = "4 - San Francisco", "Emeryville" = "4 - San Francisco", "Sausalito" = "4 - San Francisco", "Pillar Point" = "4 - San Francisco", "Santa Cruz" = "3 - Central", "Moss Landing" = "3 - Central", "Morro Bay" = "3 - Central", "Avila Beach" = "3 - Central", "Santa Barbara" = "1 & 2 - Southern", "Channel Islands" = "1 & 2 - Southern","Marina Del Rey" = "1 & 2 - Southern", "san Pedro" = "1 & 2 - Southern","Long Beach" = "1 & 2 - Southern", "Dana Point" = "1 & 2 - Southern", "San Diego" = "1 & 2 - Southern")
+
+CRSP_Data <- CRSP_Data %>% 
+  mutate(RecFIN_Port_Name = CRSP_RecFIN_port_renaming[Port])
+
+CRSP_Data <- CRSP_Data %>% 
+merge(.,PacFIN_Codes,by = intersect('PacFIN_Species_Code','PacFIN_Species_Code'), all = F) %>%
+select(c(Institution,Year,Project_ID,Sample_ID,RecFIN_Port_Name,Port,Vessel,CDFW_Vessel_Number,Capture_Date,SPECIES_NAME,PacFIN_Species_Code,Fork_Length_mm,Sex,Maturity,Otoliths_Retained,Fin_Clip_Retained))
+
+#datasummary_crosstab(SPECIES_NAME*Year ~ Institution, statistic = 1 ~ N, title = 'Table 2: Summary of species processed in 2022 and 2023 by each collaborating CCFRP institution and NMFS', data = CRSP_Data)
+
+datasummary_crosstab(SPECIES_NAME ~ Year, statistic = 1 ~ N, title = 'Table 1: Summary of species sampled in 2022 and 2023', data = CRSP_Data)
+
+
+```
+
+### CRSP Sample Inventory by Vessel
+
+The following tables show the most up to date summary of samples collected by each vessel separated by the following CDFW management regions: Northern (**Table 3**), Mendocino (**Table 4**), San Francisco (**Table 5**), Central (**Table 6**), Southern (**Table 7**)
+
+```{r, warning = FALSE, message = FALSE, echo = FALSE}
+
+Northern <- CRSP_Data %>%
+  group_by(RecFIN_Port_Name) %>%
+  filter(RecFIN_Port_Name == "6 - Northern")
+datasummary_crosstab(SPECIES_NAME*Year ~ Vessel, statistic = 1 ~ N, title = 'Table 3: Summary of species sampled to date within the Northern Management Region', data = Northern)
+
+Mendocino <- CRSP_Data %>%
+  group_by(RecFIN_Port_Name) %>%
+  filter(RecFIN_Port_Name == "5 - Mendocino")
+datasummary_crosstab(SPECIES_NAME*Year ~ Vessel, statistic = 1 ~ N, title = 'Table 4: Summary of species sampled to date within the Mendocino Management Region', data = Mendocino)
+
+San_Francisco <- CRSP_Data %>%
+  group_by(RecFIN_Port_Name) %>%
+  filter(RecFIN_Port_Name == "4 - San Francisco")
+datasummary_crosstab(SPECIES_NAME*Year ~ Vessel, statistic = 1 ~ N, title = 'Table 5: Summary of species sampled to date within the San Francisco Management Region', data = San_Francisco)
+
+Central <- CRSP_Data %>%
+  group_by(RecFIN_Port_Name) %>%
+  filter(RecFIN_Port_Name == "3 - Central")
+datasummary_crosstab(SPECIES_NAME*Year ~ Vessel, statistic = 1 ~ N, title = 'Table 6: Summary of species sampled to date within the Central Management Region', data = Central)
+
+Southern <- CRSP_Data %>%
+  group_by(RecFIN_Port_Name) %>%
+  filter(RecFIN_Port_Name == "1 & 2 - Southern")
+datasummary_crosstab(SPECIES_NAME*Year ~ Vessel, statistic = 1 ~ N, title = 'Table 7: Summary of species sampled to date within the Southern Management Region', data = Southern)
+
+
+```
+
+|     |
+|-----|
+|     |
+
+## Summary Data for NMFS Assessment Document
+
+```{r, warning = FALSE, message = FALSE, echo = FALSE}
+
+library(googlesheets4)
+library(modelsummary)
+library(tidyverse)
+library(data.table)
+library(ggplot2)
+
+#gs4_deauth()
+#gs4_auth()
+
+CRSP_Data <- read_sheet("https://docs.google.com/spreadsheets/d/1gfTqfUz6_yY_UaC8doQJY6xqRCaN7I-5W0e9DHwJnmU/edit?usp=sharing")
+
+PacFIN_Codes <- read.csv("PAcFIN_Codes.csv")
+PacFIN_Codes <- PacFIN_Codes %>% 
+  rename(PacFIN_Species_Code = PACFIN_SPECIES_CODE)
+
+CRSP_RecFIN_port_renaming <- c("Eureka" = "6 - Northern", "Shelter Cove" = "5 - Mendocino", "Fort Bragg" = "5 - Mendocino", "Bodega Bay" = "4 - San Francisco", "Emeryville" = "4 - San Francisco", "Sausalito" = "4 - San Francisco", "Pillar Point" = "4 - San Francisco", "Santa Cruz" = "3 - Central", "Moss Landing" = "3 - Central", "Morro Bay" = "3 - Central", "Avila Beach" = "3 - Central", "Santa Barbara" = "1 & 2 - Southern", "Channel Islands" = "1 & 2 - Southern","Marina Del Rey" = "1 & 2 - Southern", "San Pedro" = "1 & 2 - Southern", "Long Beach" = "1 & 2 - Southern", "Dana Point" = "1 & 2 - Southern", "San Diego" = "1 & 2 - Southern")
+
+CRSP_Data <- CRSP_Data %>% 
+  mutate(RecFIN_Port_Name = CRSP_RecFIN_port_renaming[Port])
+
+CRSP_Data <- CRSP_Data %>% 
+merge(.,PacFIN_Codes,by = intersect('PacFIN_Species_Code','PacFIN_Species_Code'), all = F) %>%
+select(c(Institution,Year,Project_ID,Sample_ID,RecFIN_Port_Name,Port,Vessel,CDFW_Vessel_Number,Capture_Date,SPECIES_NAME,PacFIN_Species_Code,Fork_Length_mm,Sex,Maturity,Otoliths_Retained,Fin_Clip_Retained))
+
+#CRSP_Data <- CRSP_Data %>%
+ # mutate(Year = if_else(SPECIES_NAME == 'BLACK ROCKFISH' & Fork_Length_mm == 382 & #Sex == 'F', 2023,Year))
+
+
+# Select relevant columns
+selected_columns <- c("SPECIES_NAME","Year","RecFIN_Port_Name","Port", "Fork_Length_mm", "Sex", "Otoliths_Retained")
+filtered_data <- CRSP_Data %>% select(selected_columns)
+
+# Define custom functions for summarization
+count_non_null <- function(x) sum(!is.na(x))
+count_yes <- function(x) sum(x == "Yes")
+count_sex_MF <- function(x) sum(x %in% c("M", "F"))
+count_sex_U <- function(x) sum(x %in% c("U"))
+
+# Group by SPECIES_NAME & Port and summarize
+summary_tables_port <- filtered_data %>%
+  group_by(SPECIES_NAME,Year,Port) %>%
+  summarise(
+    Lengths = count_non_null(Fork_Length_mm),
+    Sexed_Fish = count_sex_MF(Sex),
+    Unsexed_Fish = count_sex_U(Sex),
+    Unread_Otoliths = count_yes(Otoliths_Retained)
+  )
+
+summary_df <- as.data.frame(summary_tables_port)
+
+# Create alternating row colors
+colors <- ifelse(seq(nrow(summary_df)) %% 2 == 0, "lightgrey", "white")
+
+# Print the summary table with kable and styling
+knitr::kable(summary_df, format = "markdown", caption = "Summary Table") %>%
+  kableExtra::kable_styling(full_width = F) %>%
+  kableExtra::row_spec(row = seq(nrow(summary_df)), background = colors) %>%
+  kableExtra::kable_styling(latex_options = "scale_down") %>%
+  kableExtra::add_header_above(c(" ", "Group 1" = 3, "Group 2" = 1))
+
+# Display the summary tables
+write.csv(summary_tables_port, "summary_tables_port.csv", row.names = FALSE)
+
+# Group by SPECIES_NAME & Region and summarize
+summary_tables_region <- filtered_data %>%
+  group_by(SPECIES_NAME,Year,RecFIN_Port_Name) %>%
+  summarise(
+    Lengths = count_non_null(Fork_Length_mm),
+    Sexed_Fish = count_sex_MF(Sex),
+    Unsexed_Fish = count_sex_U(Sex),
+    Unread_Otoliths = count_yes(Otoliths_Retained)
+  )
+
+summary_df <- as.data.frame(summary_tables_region)
+
+# Create alternating row colors
+colors <- ifelse(seq(nrow(summary_df)) %% 2 == 0, "lightgrey", "white")
+
+# Print the summary table with kable and styling
+knitr::kable(summary_df, format = "markdown", caption = "Summary Table") %>%
+  kableExtra::kable_styling(full_width = F) %>%
+  kableExtra::row_spec(row = seq(nrow(summary_df)), background = colors) %>%
+  kableExtra::kable_styling(latex_options = "scale_down") %>%
+  kableExtra::add_header_above(c(" ", "Group 1" = 3, "Group 2" = 1))
+
+write.csv(summary_tables_region, "summary_tables_region.csv", row.names = FALSE)
+
+
+```
