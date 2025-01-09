@@ -1,0 +1,102 @@
+Sample_ID,Species_Name,Scientific_Name,PacFIN_Species_Code,RecFIN_Species_Code,Year,Project_ID,Capture_Date,CRFS_District,Port,Vessel,CDFW_Vessel_Number,Institution,Fork_Length_mm,Sex,Maturity,Comments
+202308-1012-33680-GSPT-71,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,8/4/2023,District 3 - Central,Morro Bay,Fiesta,33680,CP,310,M,0,NA
+202311-1012-05978-GSPT-375,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/28/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,HSU,397,F,1,NA
+202311-1012-05978-GSPT-377,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/28/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,HSU,355,F,1,possbile necrosis
+202311-1012-05978-GSPT-378,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/28/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,HSU,387,F,1,NA
+202306-1012-38325-GSPT-37,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,306,F,1,NA
+202306-1012-38325-GSPT-38,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,359,M,1,NA
+202306-1012-38325-GSPT-42,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,318,M,1,NA
+202306-1012-38325-GSPT-44,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,385,M,1,NA
+202306-1012-38325-GSPT-45,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,304,M,0,NA
+202306-1012-38325-GSPT-50,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,366,F,1,NA
+202306-1012-38325-GSPT-53,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/24/2023,District 3 - Central,Moss Landing,Kahuna,38325,MLML,333,M,1,NA
+202307-1012-73873-GSPT-11,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,367,U,UNK,"gut punctured, no gonads present"
+202307-1012-73873-GSPT-15,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,350,F,UNK,gonads sliced
+202307-1012-73873-GSPT-16,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,321,F,1,NA
+202307-1012-73873-GSPT-19,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,326,M,1,NA
+202307-1012-73873-GSPT-20,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,368,F,1,NA
+202307-1012-73873-GSPT-6,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/3/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,347,M,UNK,gut punctured
+202307-1012-73873-GSPT-68,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/14/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,320,M,1,NA
+202308-1012-73873-GSPT-127,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,8/9/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,179,M,0,NA
+202308-1012-73873-GSPT-152,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,8/15/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,333,F,1,stage = 5
+202308-1012-73873-GSPT-153,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,8/15/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,352,F,1,stage = 5
+202310-1012-73873-GSPT-249,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/2/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,327,M,1,NA
+202310-1012-73873-GSPT-259,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/18/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,423,F,1,NA
+202310-1012-73873-GSPT-293,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/27/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,307,F,1,stage = 5
+202310-1012-73873-GSPT-295,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/27/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,378,M,1,NA
+202311-1012-73873-GSPT-308,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/4/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,325,F,1,stage = 5
+202311-1012-73873-GSPT-309,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/4/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,235,F,0,NA
+202311-1012-73873-GSPT-313,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/4/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,224,U,UNK,gut punctured
+202311-1012-73873-GSPT-317,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/24/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,384,F,1,stage = 5
+202311-1012-73873-GSPT-326,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/24/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,363,F,1,stage = 5
+202311-1012-73873-GSPT-331,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/24/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,333,F,1,stage = 5
+202311-1012-73873-GSPT-333,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/24/2023,District 3 - Central,Moss Landing,Last Meal,73873,MLML,271,U,UNK,gut punctured
+202306-1012-03233-GSPT-27,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,315,F,1,Resting
+202306-1012-03233-GSPT-36,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,265,F,1,NA
+202306-1012-03233-GSPT-46,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,365,F,1,Resting
+202306-1012-03233-GSPT-60,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,302,F,1,NA
+202306-1012-03233-GSPT-63,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,336,F,1,NA
+202306-1012-03233-GSPT-9,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,6/23/2023,District 1 - South,San Diego,Premier,3233,SIO,356,U,UNK,Gut perforated - cannot sex
+202307-1012-03233-GSPT-10,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/7/2023,District 1 - South,San Diego,Premier,3233,SIO,348,M,0,NA
+202307-1012-03233-GSPT-114,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/16/2023,District 1 - South,San Diego,Premier,3233,SIO,342,F,1,Larvae - about ready for partuition
+202307-1012-03233-GSPT-33,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/7/2023,District 1 - South,San Diego,Premier,3233,SIO,318,M,0,1 whole and 1 broken otolith
+202307-1012-03233-GSPT-6,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/7/2023,District 1 - South,San Diego,Premier,3233,SIO,328,M,UNK,NA
+202307-1012-03233-GSPT-8,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/7/2023,District 1 - South,San Diego,Premier,3233,SIO,365,M,0,NA
+202307-1012-03233-GSPT-95,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/17/2023,District 1 - South,San Diego,Premier,3233,SIO,293,F,1,NA
+202309-1012-05978-GSPT-661,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,9/23/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,SIO,380,M,1,NA
+202309-1012-05978-GSPT-662,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,9/23/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,SIO,410,M,1,NA
+202309-1012-05978-GSPT-663,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,9/23/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,SIO,372,M,1,NA
+202309-1012-05978-GSPT-664,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,9/23/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,SIO,380,F,1,STAGE 6
+202309-1012-05978-GSPT-677,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,9/23/2023,District 5 - Wine,Shelter Cove,Sea Hawk,5978,SIO,365,M,1,NA
+202310-1012-03233-GSPT-473,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/20/2023,District 1 - South,San Diego,Premier,3233,SIO,350,M,0,NA
+202310-1012-03233-GSPT-475,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/20/2023,District 1 - South,San Diego,Premier,3233,SIO,325,M,1,NA
+202310-1012-03233-GSPT-483,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/16/2023,District 1 - South,San Diego,Premier,3233,SIO,350,M,1,NA
+202310-1012-03233-GSPT-493,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/16/2023,District 1 - South,San Diego,Premier,3233,SIO,376,M,1,NA
+202310-1012-03233-GSPT-507,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/16/2023,District 1 - South,San Diego,Premier,3233,SIO,358,F,1,STAGE 5+
+202310-1012-06810-GSPT-1010,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/12/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,395,M,1,IDENTIFIED AS CANARY BUT ACTUALLY GREENSPOTTED
+202310-1012-06810-GSPT-1011,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/12/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,360,F,0,NA
+202310-1012-06810-GSPT-1031,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/29/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,315,F,1,STAGE 5
+202310-1012-28054-GSPT-766,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/27/2023,District 2 - Channel,Channel Islands,Mirage,28054,SIO,311,F,1,STAGE 6
+202311-1012-03233-GSPT-738,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/21/2023,District 1 - South,San Diego,Premier,3233,SIO,348,F,1,STAGE 7
+202311-1012-03233-GSPT-739,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/21/2023,District 1 - South,San Diego,Premier,3233,SIO,265,F,0,NA
+202311-1012-03233-GSPT-740,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/21/2023,District 1 - South,San Diego,Premier,3233,SIO,291,M,1,NA
+202311-1012-04990-GSPT-868,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/22/2023,District 1 - South,Marina Del Rey,Betty-O,4990,SIO,250,F,1,"STAGE 2, LENGTH WAS MEASURED TO WHOLE AND HALF DECIMAL"
+202311-1012-06810-GSPT-1066,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/17/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,225,U,UNK,PERFORATED GUT
+202311-1012-28054-GSPT-788,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/10/2023,District 2 - Channel,Channel Islands,Mirage,28054,SIO,329,F,1,"STAGE 6/7, ID AS GREENSTRIPED ON TAG BUT ACTUALLY GREENSPOTTED"
+202311-1012-28054-GSPT-818,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/25/2023,District 2 - Channel,Channel Islands,Mirage,28054,SIO,392,M,1,NA
+202311-1012-28054-GSPT-821,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/25/2023,District 2 - Channel,Channel Islands,Mirage,28054,SIO,376,F,1,STAGE 6
+202312-1012-06810-GSPT-1080,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/14/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,340,M,1,NA
+202312-1012-06810-GSPT-1092,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/14/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,385,M,1,NA
+202312-1012-06810-GSPT-1093,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/14/2023,District 5 - Wine,Fort Bragg,Kyndall Lynn,6810,SIO,360,M,1,NA
+202312-1012-16699-GSPT-956,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/29/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,365,F,1,"LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM, STAGE 2+"
+202312-1012-16699-GSPT-957,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/29/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,405,F,1,"LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM, STAGE 2+"
+202312-1012-16699-GSPT-986,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/18/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,365,M,1,LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM
+202312-1012-16699-GSPT-987,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/18/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,310,M,1,LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM
+202312-1012-16699-GSPT-988,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/18/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,320,M,1,LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM
+202312-1012-16699-GSPT-989,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/27/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,310,F,1,"LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM, STAGE 2"
+202312-1012-16699-GSPT-990,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/18/2023,District 1 - South,Long Beach,Eldorado,16699,SIO,260,M,1,LENGTH MEASUREMENTS SEEM ROUNDED TO THE WHOLE OR HALF MM
+202312-1012-28054-GSPT-1145,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/16/2023,District 2 - Channel,Channel Islands,Mirage,28054,SIO,300,F,1,STAGE 7
+202307-1012-12758-GSPT-186,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,337,F,1,NA
+202307-1012-12758-GSPT-195,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,326,F,1,NA
+202307-1012-12758-GSPT-196,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,7/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,348,M,0,NA
+202310-1012-12758-GSPT-356,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,280,M,0,NA
+202310-1012-12758-GSPT-365,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/31/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,423,M,1,NA
+202310-1012-12758-GSPT-416,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/26/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,348,M,1,NA
+202310-1012-12758-GSPT-423,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/26/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,312,F,1,NA
+202310-1012-39022-GSPT-378,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/15/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,353,M,1,NA
+202310-1012-39022-GSPT-390,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/15/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,281,F,1,NA
+202310-1012-39022-GSPT-408,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,10/29/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,393,F,1,NA
+202311-1012-12758-GSPT-509,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,353,F,1,Gut cut open
+202311-1012-12758-GSPT-512,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,410,F,1,NA
+202311-1012-12758-GSPT-529,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/30/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,384,M,1,NA
+202311-1012-12758-GSPT-545,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,258,M,1,NA
+202311-1012-12758-GSPT-547,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,313,M,1,NA
+202311-1012-12758-GSPT-553,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,320,F,1,NA
+202311-1012-12758-GSPT-575,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,267,M,1,NA
+202311-1012-12758-GSPT-586,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,313,F,1,NA
+202311-1012-12758-GSPT-587,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,365,M,1,NA
+202311-1012-12758-GSPT-594,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,12/15/2023,District 2 - Channel,Santa Barbara,Coral Sea,12758,UCSB,315,F,1,NA
+202311-1012-39022-GSPT-453,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/12/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,393,F,1,NA
+202311-1012-39022-GSPT-455,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/12/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,296,F,1,NA
+202311-1012-39022-GSPT-482,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/12/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,377,F,1,NA
+202311-1012-39022-GSPT-497,Greenspotted Rockfish,Sebastes chlorostictus,GSPT,8826010143,2023,1012,11/21/2023,District 2 - Channel,Santa Barbara,Stardust,39022,UCSB,361,M,1,NA

@@ -382,9 +382,54 @@ ggplot(top_6_species_D1, aes(x = Fork_Length_mm, fill = Sex)) +
     legend.text = element_text(size = 14),  # Increase legend text size
     legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
   )
+```
 
+## Species-Specific Database Sorting
 
+```{r}
 
+# Specify the year and species combination
+target_year <- 2023
+target_species <- "Greenspotted Rockfish"
 
+# Filter the dataset for the specific combination
+GSPT_filtered_data <- Coop_Data %>%
+  filter(Year == target_year & Species_Name == target_species & Institution != "NMFS")
 
+# Randomly sample 20 rows from each district
+GSPT_sampled_data <- GSPT_filtered_data %>%
+  group_by(CRFS_District) %>%         # Group data by district
+  slice_sample(n = 29) %>%            # Randomly select 20 rows from each group
+  ungroup()                           # Ungroup the data
+
+# Drop specific columns
+GSPT_2023_data <- GSPT_sampled_data %>%
+  select(-Sample_Number, -Carcass_Fork_Length_mm, -MANAGEMENT_PLAN_ID, -FISHERY_MANAGEMENT_PLAN, -SPECIES_GROUP_ID, -SPECIES_GROUP_NAME, -STOCK_COMPLEX_ID, -STOCK_COMPLEX_NAME, -Otoliths_Retained, -Fin_Clip_Retained, -Year_Month_Code) 
+
+GSPT_2023_data <- GSPT_2023_data %>%
+  select(Sample_ID, Species_Name, Scientific_Name, PacFIN_Species_Code, RecFIN_Species_Code,  Year, Project_ID, Capture_Date, CRFS_District, Port, Vessel, CDFW_Vessel_Number, everything())
+
+# Save File
+write.csv(GSPT_2023_data, "GSPT-2023-Data-RB20250108.csv", row.names = FALSE)
+
+```
+
+```{r}
+# Specify the year and species combination
+target_year <- 2023
+institution  <- "NMFS"
+
+# Filter the dataset for the specific combination
+missing_NMFS_data <- Coop_Data %>%
+  filter(Year == target_year & Institution == "NMFS")
+
+# Drop specific columns
+missing_NMFS_data <- missing_NMFS_data %>%
+  select(-Sample_Number, -Carcass_Fork_Length_mm, -MANAGEMENT_PLAN_ID, -FISHERY_MANAGEMENT_PLAN, -SPECIES_GROUP_ID, -SPECIES_GROUP_NAME, -STOCK_COMPLEX_ID, -STOCK_COMPLEX_NAME, -Otoliths_Retained, -Fin_Clip_Retained, -Year_Month_Code) 
+
+missing_NMFS_data <- missing_NMFS_data %>%
+  select(Sample_ID, Species_Name, Scientific_Name, PacFIN_Species_Code, RecFIN_Species_Code,  Year, Project_ID, Capture_Date, CRFS_District, Port, Vessel, CDFW_Vessel_Number, everything())
+
+# Save File
+write.csv(missing_NMFS_data, "Missing-NMFS-Data-RB20250108.csv", row.names = FALSE)
 ```

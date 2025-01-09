@@ -110,7 +110,7 @@ knitr::include_graphics("Copper-Rockfish-Sample.png")
 Vessels participating in the 2023 Cooperative Recreational Sampling Program (CRSP)
 
 |                                    Vessel Name                                     |      Port       | CDFW Boat \# | CDFW Management Region | Vessel Type | CRSP Vessel Sampling Protocol  |
-|:---------------------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:----------------------------------------------------------------------------------:|:---------------:|:------------:|:----------------------:|:-----------:|:------------------------------:|
 |                [*Premier*](https://www.hmlanding.com/boat/premier)                 |    San Diego    |    03233     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
 |               [*Sum Fun*](https://danawharf.com/our-boats/sum-fun/)                |   Dana Wharf    |    12360     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
 |                [*Eldorado*](https://www.eldoradosportfishing.com/)                 |   Long Beach    |    16699     |        Southern        | Party Boat  |  Vessel On-Board Sampling (C)  |
@@ -188,7 +188,7 @@ Vessel samples are tracked two-fold via routine monthly check-in's with particip
 ## Specimen Identification Code and Database Fields
 
 | Database Field          | Description                                                                                                                                                                                                                         |
-|-------------|----------------------------------------------------------|
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Institution**         | The institution that processed the carcasses: HSU (Cal Poly Humboldt), BML (Bodega Marine Labs), MLML (Moss Landing Marine Labs), CP (Cal Poly San Luis Obispo), UCSB (UC Santa Barbara), SIO (Scripps Institution of Oceanography) |
 | **Year**                | The year in which the sample was collected                                                                                                                                                                                          |
 | **Sample_ID**           | Sample ID code automatically generated in Google Sheets to uniquely identify samples. Code is as follows: 'Year_Month_Code'-'Project_ID'-'CDFW_Vessel_Number'-'PacFIN_Species_Code'-'Sample_Number'                                 |
