@@ -16,7 +16,7 @@ library(ggplot2)
 library(readxl)
 library(dplyr)
 
-Coop_Data <- read_excel("Cooperative-Sampling-Database-20250106.xlsx", 
+Coop_Data <- read_excel("Cooperative-Sampling-Database-20250128.xlsx", 
     sheet = "Merged Data", col_types = c("text", 
         "text", "text", "text", "text", "text", 
         "text", "text", "text", "date", "text", 
@@ -65,11 +65,17 @@ Coop_Data <- merge(Coop_Data, PacFIN_Codes, by = "PacFIN_Species_Code", all.x = 
 Coop_Data <- Coop_Data %>%
   filter(!is.na(PacFIN_Species_Code))
 
+Coop_Data$Species_Name <- recode_factor(Coop_Data$Species_Name,
+                                      'Blue Rockfish' = "Blue/Deacon Rockfish",
+                                      'Deacon Rockfish' = "Blue/Deacon Rockfish")
+
+
+write.csv(Coop_Data, "coop-data.csv", row.names = FALSE)
 ```
 
 ## Summary of Cooperative Data - OVERALL
 
-```{r, fig.width=12, fig.height=10, out.width="80%"}
+```{r, fig.width=15, fig.height=10, out.width="80%"}
 
 datasummary_crosstab(CRFS_District ~ Year, statistic = 1 ~ N, title = 'Table 1: Summary of species sampled in 2022-2024', data = Coop_Data)
 
@@ -91,18 +97,18 @@ ggplot(top_12_coastwide, aes(x = Fork_Length_mm, fill = Sex)) +
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 
@@ -125,6 +131,7 @@ datasummary_crosstab(Species_Name ~ Year,
 
 # Calculate the abundance of each species
 Abundance_D6 <- D6 %>%
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -141,18 +148,18 @@ geom_histogram(aes(y = ..count..), bins = 20, alpha = 1, position = "identity", 
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 ```
@@ -171,6 +178,7 @@ datasummary_crosstab(Species_Name ~ Year,
 
 # Calculate the abundance of each species
 Abundance_D5 <- D5 %>%
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -187,18 +195,18 @@ geom_histogram(aes(y = ..count..), bins = 20, alpha = 1, position = "identity", 
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 
@@ -215,7 +223,8 @@ datasummary_crosstab(Species_Name ~ Year,
           title = "Table 5: Summary of species sampled 2022-2024 for District 4 - San Francisco", data = D4)
 
 # Calculate the abundance of each species
-Abundance_D4 <- D4 %>%
+Abundance_D4 <- D4 %>%  
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -232,18 +241,18 @@ geom_histogram(aes(y = ..count..), bins = 20, alpha = 1, position = "identity", 
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 ```
@@ -259,7 +268,8 @@ datasummary_crosstab(Species_Name ~ Year,
           title = "Table 4: Summary of species sampled 2022-2024 for District 3 - Central", data = D3)
 
 # Calculate the abundance of each species
-Abundance_D3 <- D3 %>%
+Abundance_D3 <- D3 %>%  
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -276,18 +286,18 @@ geom_histogram(aes(y = ..count..), bins = 20, alpha = 1, position = "identity", 
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 
@@ -306,7 +316,8 @@ datasummary_crosstab(Species_Name ~ Year,
 
 
 # Calculate the abundance of each species
-Abundance_D2 <- D2 %>%
+Abundance_D2 <- D2 %>%  
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -323,18 +334,18 @@ geom_histogram(aes(y = ..count..), bins = 20, alpha = 1, position = "identity", 
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 
 
@@ -352,7 +363,8 @@ datasummary_crosstab(Species_Name ~ Year,
           title = "Table 2: Summary of species sampled 2022-2024 for District 1 - South", data = D1)
 
 # Calculate the abundance of each species
-Abundance_D1 <- D1 %>%
+Abundance_D1 <- D1 %>%  
+  filter(Year == "2024") %>%
   group_by(Species_Name) %>%
   summarise(Abundance = n()) %>%
   arrange(desc(Abundance)) %>%
@@ -369,18 +381,18 @@ ggplot(top_6_species_D1, aes(x = Fork_Length_mm, fill = Sex)) +
   facet_wrap(~Species_Name) +  # Create separate panels for each species
   labs(title = "",
        x = "Fork Length (mm)",
-       y = "Frequency") +
+       y = "Count") +
   theme_minimal() +
   scale_fill_manual(values = c("tomato", "dodgerblue", "grey")) +
   theme(
     panel.grid = element_blank(),  # Remove grid lines
-    axis.title = element_text(size = 16),  # Adjust axis title size
-    axis.text = element_text(size = 14),   # Adjust axis label text size
-    plot.title = element_text(size = 16),  # Adjust plot title size
-    strip.text = element_text(size = 16),   # Adjust facet label size
-    legend.title = element_text(size = 16), # Increase legend title size
-    legend.text = element_text(size = 14),  # Increase legend text size
-    legend.key.size = unit(1.5, "cm")      # Increase the size of the legend keys
+    axis.title = element_text(size = 22),  # Adjust axis title size
+    axis.text = element_text(size = 22),   # Adjust axis label text size
+    plot.title = element_text(size = 22),  # Adjust plot title size
+    strip.text = element_text(size = 22),   # Adjust facet label size
+    legend.title = element_text(size = 22), # Increase legend title size
+    legend.text = element_text(size = 22),  # Increase legend text size
+    legend.key.size = unit(1, "cm")      # Increase the size of the legend keys
   )
 ```
 
@@ -432,4 +444,8 @@ missing_NMFS_data <- missing_NMFS_data %>%
 
 # Save File
 write.csv(missing_NMFS_data, "Missing-NMFS-Data-RB20250108.csv", row.names = FALSE)
+```
+
+```{r}
+
 ```
