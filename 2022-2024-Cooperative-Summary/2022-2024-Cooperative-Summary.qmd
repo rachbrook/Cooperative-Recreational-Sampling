@@ -398,6 +398,8 @@ ggplot(top_6_species_D1, aes(x = Fork_Length_mm, fill = Sex)) +
 
 ## Species-Specific Database Sorting
 
+Jonah Hill - Greenspotted Rockfish shipped to ADFW
+
 ```{r}
 
 # Specify the year and species combination
@@ -426,6 +428,8 @@ write.csv(GSPT_2023_data, "GSPT-2023-Data-RB20250108.csv", row.names = FALSE)
 
 ```
 
+Spreadsheet of Missing Otoliths
+
 ```{r}
 # Specify the year and species combination
 target_year <- 2023
@@ -444,8 +448,4 @@ missing_NMFS_data <- missing_NMFS_data %>%
 
 # Save File
 write.csv(missing_NMFS_data, "Missing-NMFS-Data-RB20250108.csv", row.names = FALSE)
-```
-
-```{r}
-
 ```
