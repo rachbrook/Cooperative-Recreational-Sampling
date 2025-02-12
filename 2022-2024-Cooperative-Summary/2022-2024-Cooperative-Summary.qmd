@@ -16,7 +16,7 @@ library(ggplot2)
 library(readxl)
 library(dplyr)
 
-Coop_Data <- read_excel("Cooperative-Sampling-Database-20250128.xlsx", 
+Coop_Data <- read_excel("Cooperative-Sampling-Database-20250212.xlsx", 
     sheet = "Merged Data", col_types = c("text", 
         "text", "text", "text", "text", "text", 
         "text", "text", "text", "date", "text", 
@@ -77,7 +77,10 @@ write.csv(Coop_Data, "coop-data.csv", row.names = FALSE)
 
 ```{r, fig.width=15, fig.height=10, out.width="80%"}
 
-datasummary_crosstab(CRFS_District ~ Year, statistic = 1 ~ N, title = 'Table 1: Summary of species sampled in 2022-2024', data = Coop_Data)
+datasummary_crosstab(CRFS_District ~ Year, statistic = 1 ~ N, title = 'Table 1: Summary of groundfish sampled in 2022-2024', data = Coop_Data)
+
+datasummary_crosstab(Species_Name ~ Year, title = 'Table 1: Summary of species sampled in 2022-2024', data = Coop_Data)
+
 
 # Calculate the abundance of each species
 Abundance_Coastwide <- Coop_Data %>%
